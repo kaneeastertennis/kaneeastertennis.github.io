@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://kaneeastertennis.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.com/fragments/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.com/fragments/frontpage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.com/fragments/location/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.com/pages/leagues/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.com/fragments/camps/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.com/fragments/leagues/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.com/fragments/programs/</loc>
+  </url>
+  
+</urlset>

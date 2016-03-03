@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://kaneeastertennis.com/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://kaneeastertennis.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://kaneeastertennis.com/fragments/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.com/fragments/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;about-andrei:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About Andrei&lt;/h1&gt;
+
+&lt;p&gt;&lt;img class=&#34;embedded&#34; src=&#34;http://kaneeastertennis.com/images/agassi-cover.jpg&#34;&gt;&lt;/img&gt;
+Andre Kirk Agassi (/ˈɑːndreɪ ˈæɡəsi/; born April 29, 1970) is an American
+retired professional tennis player and former World No. 1, who was one of the
+game&amp;rsquo;s most dominant players from the early 1990s to the mid-2000s. Generally
+considered by critics and fellow players to be one of the greatest tennis
+players of all time, Agassi had been called the greatest service
+returner in the history of the game. Described by the BBC upon his
+retirement as &amp;ldquo;perhaps the biggest worldwide star in the sport&amp;rsquo;s history&amp;rdquo;,
+Agassi compiled performances that, along with his unorthodox apparel and
+attitude, saw him cited as one of the most charismatic players in the history of
+the game. As a result, he is credited for helping to revive the popularity of
+tennis during the 1990s.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://kaneeastertennis.com/fragments/frontpage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.com/fragments/frontpage/</guid>
+      <description>&lt;div class=&#34;section&#34;&gt;
+
+    &lt;div class=&#34;banner&#34; style=&#34;background:#629269&#34;&gt;
+        &lt;h1&gt;
+            Kane Easter &lt;i&gt;Tennis&lt;/i&gt;
+        &lt;/h1&gt;
+        &lt;h2&gt; Oshawa, Ontario, 905-123-4567 &lt;/h2&gt;
+        &lt;h2 class=&#34;email&#34;&gt; 
+            &lt;a href=&#34;mailto:xxx&#34;&gt;hi@kaneeastertennis.com &lt;/a&gt;
+        &lt;/h2&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;section-graphics&#34; 
+        style=&#34;background-image:url(&#39;/images/frontpage.section.png&#39;)&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://kaneeastertennis.com/fragments/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.com/fragments/location/</guid>
+      <description>&lt;h1&gt;Location&lt;/h1&gt;
+&lt;div style=&#34;padding-top: 20px&#34;&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2873.491789221723!2d-78.87045886886062!3d43.92849479519322!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sca!4v1456986366444&#34; width=&#34;400&#34; height=&#34;350&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://kaneeastertennis.com/pages/leagues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.com/pages/leagues/</guid>
+      <description>
+
+&lt;h1 id=&#34;house-leagues:83f3c1c3a670c611a012a88e677b713b&#34;&gt;House Leagues&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The house league meets once a week.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Men&amp;rsquo;s league&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Monday&lt;/td&gt;
+&lt;td&gt;9-12, 12-3pm&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Tuesday&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Thursday&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Friday&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Saturday&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Sunday&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://kaneeastertennis.com/fragments/camps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.com/fragments/camps/</guid>
+      <description>&lt;h1&gt;
+    &lt;a class=&#34;link&#34; href=&#34;http://kaneeastertennis.com/pages/leagues/&#34;&gt;
+        Camps
+        &lt;span class=&#34;glyphicon glyphicon-chevron-right&#34;&gt;&lt;/span&gt;
+    &lt;/a&gt;
+&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We offer summer tennis camps for kids from 5 to 16 (co-ed).
+We provide several options.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Morning 9:30am - 12:00 noon&lt;/li&gt;
+&lt;li&gt;Afternoon  1:00pm - 3:30pm&lt;/li&gt;
+&lt;li&gt;Full day 9:30am - 3:30pm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://kaneeastertennis.com/fragments/leagues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.com/fragments/leagues/</guid>
+      <description>&lt;h1&gt;
+    &lt;a class=&#34;link&#34; href=&#34;http://kaneeastertennis.com/pages/leagues/&#34;&gt;
+        Leagues
+        &lt;span class=&#34;glyphicon glyphicon-chevron-right&#34;&gt;&lt;/span&gt;
+    &lt;/a&gt;
+&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;House Leagues&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://kaneeastertennis.com/fragments/programs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.com/fragments/programs/</guid>
+      <description>&lt;h1&gt;
+    &lt;a class=&#34;link&#34; href=&#34;http://kaneeastertennis.com/pages/leagues/&#34;&gt;
+        Other Programs
+        &lt;span class=&#34;glyphicon glyphicon-chevron-right&#34;&gt;&lt;/span&gt;
+    &lt;/a&gt;
+&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We have several program.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Adult Clinics&lt;/li&gt;
+&lt;li&gt;Private lessons&lt;/li&gt;
+&lt;li&gt;Kids summer camps&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
