@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Kane Easter Tennis</title>
     <link>http://kaneeastertennis.com/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Kane Easter Tennis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://kaneeastertennis.com/index.xml" rel="self" type="application/rss+xml" />
@@ -35,6 +35,60 @@ tennis during the 1990s.&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>http://kaneeastertennis.com/fragments/announcements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.com/fragments/announcements/</guid>
+      <description>
+
+&lt;h1 id=&#34;announcement:dde0a44d86506453e3311e8949736bc4&#34;&gt;Announcement&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;August 1&lt;/em&gt; :
+Adult Clinic is almost full.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;August 1&lt;/em&gt; :
+Adult Clinic is almost full.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;style&gt;
+.announcement ul {
+}
+.announcement li {
+  margin-bottom: 15px;
+}
+.announcement li em {
+    font-family: &#34;Roboto&#34;;
+    font-style: normal;
+    font-size: 85%;
+    background: #888;
+    color: white;
+    border-radius: 3px;
+    padding: 3px 5px 3px 5px;
+    display: inline-block;
+}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://kaneeastertennis.com/fragments/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.com/fragments/contact/</guid>
+      <description>
+
+&lt;h1 id=&#34;contact:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Contact&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;kaneeastertennis.com&lt;/li&gt;
+&lt;li&gt;905-123-4567&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://kaneeastertennis.com/fragments/frontpage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -42,12 +96,12 @@ tennis during the 1990s.&lt;/p&gt;
       <description>&lt;div class=&#34;section&#34;&gt;
 
     &lt;div class=&#34;banner&#34; style=&#34;background:#629269&#34;&gt;
-        &lt;h1&gt;
-            Kane Easter &lt;i&gt;Tennis&lt;/i&gt;
+        &lt;h1 style=&#34;padding: 40px&#34;&gt;
+            Kane Easter Tennis
         &lt;/h1&gt;
         &lt;h2&gt; Oshawa, Ontario, 905-123-4567 &lt;/h2&gt;
         &lt;h2 class=&#34;email&#34;&gt; 
-            &lt;a href=&#34;mailto:xxx&#34;&gt;hi@kaneeastertennis.com &lt;/a&gt;
+            &lt;a href=&#34;mailto:xxx&#34;&gt;info@kaneeastertennis.com &lt;/a&gt;
         &lt;/h2&gt;
     &lt;/div&gt;
 
@@ -59,76 +113,774 @@ tennis during the 1990s.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://kaneeastertennis.com/fragments/location/</link>
+      <link>http://kaneeastertennis.com/fragments/programs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kaneeastertennis.com/fragments/location/</guid>
-      <description>&lt;h1&gt;Location&lt;/h1&gt;
-&lt;div style=&#34;padding-top: 20px&#34;&gt;
-&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2873.491789221723!2d-78.87045886886062!3d43.92849479519322!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sca!4v1456986366444&#34; width=&#34;400&#34; height=&#34;350&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      <guid>http://kaneeastertennis.com/fragments/programs/</guid>
+      <description>
+
+&lt;h1 id=&#34;programs-pages-programs:a9ecf96579d42e2d95f7c08aea480d4f&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.com/pages/programs/&#34;&gt;Programs&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;We offer a variety of tennis programs.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kaneeastertennis.com/pages/junior-clinics/&#34;&gt;Junior clinics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kaneeastertennis.com/pages/adult-clinics/&#34;&gt;Adult clinics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kaneeastertennis.com/pages/tennis-aerobics&#34;&gt;Tennis Aerobics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title></title>
-      <link>http://kaneeastertennis.com/pages/leagues/</link>
+      <title>Adult Clinics</title>
+      <link>http://kaneeastertennis.com/pages/adult-clinics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kaneeastertennis.com/pages/leagues/</guid>
+      <guid>http://kaneeastertennis.com/pages/adult-clinics/</guid>
       <description>
 
-&lt;h1 id=&#34;house-leagues:83f3c1c3a670c611a012a88e677b713b&#34;&gt;House Leagues&lt;/h1&gt;
+&lt;h1 id=&#34;may-june-2016-junior-clinics-outdoor:5b68cecda88f8c75ab2ff18fe8c82bb4&#34;&gt;May / June 2016 Junior Clinics (Outdoor)&lt;/h1&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;The house league meets once a week.&lt;/p&gt;
+&lt;h2 id=&#34;payment:5b68cecda88f8c75ab2ff18fe8c82bb4&#34;&gt;Payment&lt;/h2&gt;
+
+&lt;div class=&#34;payment&#34;&gt;
+    &lt;p&gt;&lt;span class=&#34;label label-primary&#34;&gt;Method of payment&lt;/span&gt;&lt;p&gt;
+    &lt;ol&gt;
+        &lt;li&gt;Please include a cheque payable to: &lt;em&gt;Kane Easter&lt;/em&gt;&lt;/li&gt;
+        &lt;li&gt;Mail to:
+&lt;pre&gt;Kane Easter
+PO Box 30075 Brooklin Towne Centre
+Whitby ON, L1M 0B5&lt;/pre&gt;
+        &lt;/li&gt;
+    &lt;/ol&gt;
+&lt;/div&gt;
+
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;schedule:5b68cecda88f8c75ab2ff18fe8c82bb4&#34;&gt;Schedule&lt;/h2&gt;
+
+&lt;p&gt;If you are not sure what to enroll your child in, please contact Kane Easter @
+905. 767. 2612 or email &lt;code&gt;kaneeastertennis@gmail.com&lt;/code&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;Men&amp;rsquo;s league&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Clinic #1&lt;/th&gt;
+&lt;th&gt;Day&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Age&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;# of Weeks&lt;/th&gt;
+&lt;th&gt;Early Pay&lt;/th&gt;
+&lt;th&gt;Cost&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Monday&lt;/td&gt;
-&lt;td&gt;9-12, 12-3pm&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;4:30-5:30PM&lt;/td&gt;
+&lt;td&gt;U5, U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;PROGRESSIVE Beginner / Intermediate&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Tuesday&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;5:30-6:30PM&lt;/td&gt;
+&lt;td&gt;U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;Intermediate / Advanced&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Wednesday&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;4:30-6:30PM&lt;/td&gt;
+&lt;td&gt;11-16&lt;/td&gt;
+&lt;td&gt;Teen&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$180&lt;/td&gt;
+&lt;td&gt;$230&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Thursday&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;6:30-7:30PM&lt;/td&gt;
+&lt;td&gt;U 14 - U 16&lt;/td&gt;
+&lt;td&gt;Int&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$90&lt;/td&gt;
+&lt;td&gt;$115&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Friday&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;4:30-5:30PM&lt;/td&gt;
+&lt;td&gt;U5, U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;PROGRESSIVE Beginner / Intermediate&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Saturday&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;5:30-6:30PM&lt;/td&gt;
+&lt;td&gt;U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;Intermediate / Advanced&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Sunday&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;4:30-6:30PM&lt;/td&gt;
+&lt;td&gt;11-16&lt;/td&gt;
+&lt;td&gt;Teen&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$180&lt;/td&gt;
+&lt;td&gt;$230&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;6:30-7:30PM&lt;/td&gt;
+&lt;td&gt;U 14 - U 16&lt;/td&gt;
+&lt;td&gt;Int&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$90&lt;/td&gt;
+&lt;td&gt;$115&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;4:30-5:30PM&lt;/td&gt;
+&lt;td&gt;U5, U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;PROGRESSIVE Beginner / Intermediate&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;5:30-6:30PM&lt;/td&gt;
+&lt;td&gt;U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;Intermediate / Advanced&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;4:30-6:30PM&lt;/td&gt;
+&lt;td&gt;11-16&lt;/td&gt;
+&lt;td&gt;Teen&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$180&lt;/td&gt;
+&lt;td&gt;$230&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;6:30-7:30PM&lt;/td&gt;
+&lt;td&gt;U 14 - U 16&lt;/td&gt;
+&lt;td&gt;Int&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$90&lt;/td&gt;
+&lt;td&gt;$115&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;4:30-5:30PM&lt;/td&gt;
+&lt;td&gt;U5, U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;PROGRESSIVE Beginner / Intermediate&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;5:30-6:30PM&lt;/td&gt;
+&lt;td&gt;U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;Intermediate / Advanced&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;4:30-6:30PM&lt;/td&gt;
+&lt;td&gt;11-16&lt;/td&gt;
+&lt;td&gt;Teen&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$180&lt;/td&gt;
+&lt;td&gt;$230&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;6:30-7:30PM&lt;/td&gt;
+&lt;td&gt;U 14 - U 16&lt;/td&gt;
+&lt;td&gt;Int&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$90&lt;/td&gt;
+&lt;td&gt;$115&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Junior Clinics</title>
+      <link>http://kaneeastertennis.com/pages/junior-clinics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.com/pages/junior-clinics/</guid>
+      <description>
+
+&lt;h1 id=&#34;may-june-2016-junior-clinics-outdoor:a701f2c91f51372d531c6c0c6d267059&#34;&gt;May / June 2016 Junior Clinics (Outdoor)&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;payment:a701f2c91f51372d531c6c0c6d267059&#34;&gt;Payment&lt;/h2&gt;
+
+&lt;div class=&#34;payment&#34;&gt;
+    &lt;p&gt;&lt;span class=&#34;label label-primary&#34;&gt;Method of payment&lt;/span&gt;&lt;p&gt;
+    &lt;ol&gt;
+        &lt;li&gt;Please include a cheque payable to: &lt;em&gt;Kane Easter&lt;/em&gt;&lt;/li&gt;
+        &lt;li&gt;Mail to:
+&lt;pre&gt;Kane Easter
+PO Box 30075 Brooklin Towne Centre
+Whitby ON, L1M 0B5&lt;/pre&gt;
+        &lt;/li&gt;
+    &lt;/ol&gt;
+&lt;/div&gt;
+
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;schedule:a701f2c91f51372d531c6c0c6d267059&#34;&gt;Schedule&lt;/h2&gt;
+
+&lt;p&gt;If you are not sure what to enroll your child in, please contact Kane Easter @
+905. 767. 2612 or email &lt;code&gt;kaneeastertennis@gmail.com&lt;/code&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Clinic #1&lt;/th&gt;
+&lt;th&gt;Day&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Age&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;# of Weeks&lt;/th&gt;
+&lt;th&gt;Early Pay&lt;/th&gt;
+&lt;th&gt;Cost&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;4:30-5:30PM&lt;/td&gt;
+&lt;td&gt;U5, U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;PROGRESSIVE Beginner / Intermediate&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;5:30-6:30PM&lt;/td&gt;
+&lt;td&gt;U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;Intermediate / Advanced&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;4:30-6:30PM&lt;/td&gt;
+&lt;td&gt;11-16&lt;/td&gt;
+&lt;td&gt;Teen&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$180&lt;/td&gt;
+&lt;td&gt;$230&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;6:30-7:30PM&lt;/td&gt;
+&lt;td&gt;U 14 - U 16&lt;/td&gt;
+&lt;td&gt;Int&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$90&lt;/td&gt;
+&lt;td&gt;$115&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;4:30-5:30PM&lt;/td&gt;
+&lt;td&gt;U5, U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;PROGRESSIVE Beginner / Intermediate&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;5:30-6:30PM&lt;/td&gt;
+&lt;td&gt;U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;Intermediate / Advanced&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;4:30-6:30PM&lt;/td&gt;
+&lt;td&gt;11-16&lt;/td&gt;
+&lt;td&gt;Teen&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$180&lt;/td&gt;
+&lt;td&gt;$230&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;6:30-7:30PM&lt;/td&gt;
+&lt;td&gt;U 14 - U 16&lt;/td&gt;
+&lt;td&gt;Int&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$90&lt;/td&gt;
+&lt;td&gt;$115&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;4:30-5:30PM&lt;/td&gt;
+&lt;td&gt;U5, U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;PROGRESSIVE Beginner / Intermediate&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;5:30-6:30PM&lt;/td&gt;
+&lt;td&gt;U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;Intermediate / Advanced&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;4:30-6:30PM&lt;/td&gt;
+&lt;td&gt;11-16&lt;/td&gt;
+&lt;td&gt;Teen&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$180&lt;/td&gt;
+&lt;td&gt;$230&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;6:30-7:30PM&lt;/td&gt;
+&lt;td&gt;U 14 - U 16&lt;/td&gt;
+&lt;td&gt;Int&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$90&lt;/td&gt;
+&lt;td&gt;$115&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;4:30-5:30PM&lt;/td&gt;
+&lt;td&gt;U5, U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;PROGRESSIVE Beginner / Intermediate&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;5:30-6:30PM&lt;/td&gt;
+&lt;td&gt;U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;Intermediate / Advanced&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;4:30-6:30PM&lt;/td&gt;
+&lt;td&gt;11-16&lt;/td&gt;
+&lt;td&gt;Teen&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$180&lt;/td&gt;
+&lt;td&gt;$230&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;6:30-7:30PM&lt;/td&gt;
+&lt;td&gt;U 14 - U 16&lt;/td&gt;
+&lt;td&gt;Int&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$90&lt;/td&gt;
+&lt;td&gt;$115&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tennis Aerobics</title>
+      <link>http://kaneeastertennis.com/pages/tennis-aerobics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.com/pages/tennis-aerobics/</guid>
+      <description>
+
+&lt;h1 id=&#34;tennis-aerobics:76927edb9b3377630cdfd57341b76a64&#34;&gt;Tennis Aerobics&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;payment:76927edb9b3377630cdfd57341b76a64&#34;&gt;Payment&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;OTC Member / Adult Clinic Participants: Package of 4 / $40&lt;/li&gt;
+&lt;li&gt;Non-member: Package of 4 / $60&lt;/li&gt;
+&lt;li&gt;Must purchase pack of 4, can be used at any time during April to September&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;payment&#34;&gt;
+    &lt;p&gt;&lt;span class=&#34;label label-primary&#34;&gt;Method of payment&lt;/span&gt;&lt;p&gt;
+    &lt;ol&gt;
+        &lt;li&gt;Please include a cheque payable to: &lt;em&gt;Kane Easter&lt;/em&gt;&lt;/li&gt;
+        &lt;li&gt;Mail to:
+&lt;pre&gt;Kane Easter
+PO Box 30075 Brooklin Towne Centre
+Whitby ON, L1M 0B5&lt;/pre&gt;
+        &lt;/li&gt;
+    &lt;/ol&gt;
+&lt;/div&gt;
+
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;schedule:76927edb9b3377630cdfd57341b76a64&#34;&gt;Schedule&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Clinic #1&lt;/th&gt;
+&lt;th&gt;Day&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Age&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;# of Weeks&lt;/th&gt;
+&lt;th&gt;Early Pay&lt;/th&gt;
+&lt;th&gt;Cost&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;4:30-5:30PM&lt;/td&gt;
+&lt;td&gt;U5, U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;PROGRESSIVE Beginner / Intermediate&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;5:30-6:30PM&lt;/td&gt;
+&lt;td&gt;U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;Intermediate / Advanced&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;4:30-6:30PM&lt;/td&gt;
+&lt;td&gt;11-16&lt;/td&gt;
+&lt;td&gt;Teen&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$180&lt;/td&gt;
+&lt;td&gt;$230&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;6:30-7:30PM&lt;/td&gt;
+&lt;td&gt;U 14 - U 16&lt;/td&gt;
+&lt;td&gt;Int&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$90&lt;/td&gt;
+&lt;td&gt;$115&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;4:30-5:30PM&lt;/td&gt;
+&lt;td&gt;U5, U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;PROGRESSIVE Beginner / Intermediate&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;5:30-6:30PM&lt;/td&gt;
+&lt;td&gt;U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;Intermediate / Advanced&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;4:30-6:30PM&lt;/td&gt;
+&lt;td&gt;11-16&lt;/td&gt;
+&lt;td&gt;Teen&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$180&lt;/td&gt;
+&lt;td&gt;$230&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;6:30-7:30PM&lt;/td&gt;
+&lt;td&gt;U 14 - U 16&lt;/td&gt;
+&lt;td&gt;Int&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$90&lt;/td&gt;
+&lt;td&gt;$115&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;4:30-5:30PM&lt;/td&gt;
+&lt;td&gt;U5, U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;PROGRESSIVE Beginner / Intermediate&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;5:30-6:30PM&lt;/td&gt;
+&lt;td&gt;U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;Intermediate / Advanced&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;4:30-6:30PM&lt;/td&gt;
+&lt;td&gt;11-16&lt;/td&gt;
+&lt;td&gt;Teen&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$180&lt;/td&gt;
+&lt;td&gt;$230&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;6:30-7:30PM&lt;/td&gt;
+&lt;td&gt;U 14 - U 16&lt;/td&gt;
+&lt;td&gt;Int&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$90&lt;/td&gt;
+&lt;td&gt;$115&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;4:30-5:30PM&lt;/td&gt;
+&lt;td&gt;U5, U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;PROGRESSIVE Beginner / Intermediate&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;MON April 25&lt;/td&gt;
+&lt;td&gt;5:30-6:30PM&lt;/td&gt;
+&lt;td&gt;U8, U 11 &amp;amp; U 14&lt;/td&gt;
+&lt;td&gt;Intermediate / Advanced&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;td&gt;$100&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;4:30-6:30PM&lt;/td&gt;
+&lt;td&gt;11-16&lt;/td&gt;
+&lt;td&gt;Teen&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$180&lt;/td&gt;
+&lt;td&gt;$230&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;TUE April 26&lt;/td&gt;
+&lt;td&gt;6:30-7:30PM&lt;/td&gt;
+&lt;td&gt;U 14 - U 16&lt;/td&gt;
+&lt;td&gt;Int&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;$90&lt;/td&gt;
+&lt;td&gt;$115&lt;/td&gt;
+&lt;td&gt;NORTH OSHAWA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://kaneeastertennis.com/fragments/private-lessons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.com/fragments/private-lessons/</guid>
+      <description>
+
+&lt;h1 id=&#34;private-lessons-pages-private-lessons:b9c4293b2b6bc6918eba9e411727943c&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.com/pages/private-lessons&#34;&gt;Private Lessons&lt;/a&gt;&lt;/h1&gt;
 </description>
     </item>
     
@@ -138,67 +890,57 @@ tennis during the 1990s.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kaneeastertennis.com/fragments/camps/</guid>
-      <description>&lt;h1&gt;
-    &lt;a class=&#34;link&#34; href=&#34;http://kaneeastertennis.com/pages/leagues/&#34;&gt;
-        Camps
-        &lt;span class=&#34;glyphicon glyphicon-chevron-right&#34;&gt;&lt;/span&gt;
-    &lt;/a&gt;
-&lt;/h1&gt;
+      <description>
 
-&lt;blockquote&gt;
-&lt;p&gt;We offer summer tennis camps for kids from 5 to 16 (co-ed).
-We provide several options.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Morning 9:30am - 12:00 noon&lt;/li&gt;
-&lt;li&gt;Afternoon  1:00pm - 3:30pm&lt;/li&gt;
-&lt;li&gt;Full day 9:30am - 3:30pm&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;h1 id=&#34;summer-camps-pages-campus:b608fc042028e15347dc7f4e64ca33eb&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.com/pages/campus/&#34;&gt;Summer Camps&lt;/a&gt;&lt;/h1&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://kaneeastertennis.com/fragments/leagues/</link>
+      <link>http://kaneeastertennis.com/fragments/coaching-staff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kaneeastertennis.com/fragments/leagues/</guid>
-      <description>&lt;h1&gt;
-    &lt;a class=&#34;link&#34; href=&#34;http://kaneeastertennis.com/pages/leagues/&#34;&gt;
-        Leagues
-        &lt;span class=&#34;glyphicon glyphicon-chevron-right&#34;&gt;&lt;/span&gt;
-    &lt;/a&gt;
-&lt;/h1&gt;
+      <guid>http://kaneeastertennis.com/fragments/coaching-staff/</guid>
+      <description>
 
-&lt;blockquote&gt;
-&lt;p&gt;House Leagues&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h1 id=&#34;coaching-staff-pages-coaching-staff:7b158596ea884d502f6baaf107a8d264&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.com/pages/coaching-staff&#34;&gt;Coaching Staff&lt;/a&gt;&lt;/h1&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://kaneeastertennis.com/fragments/programs/</link>
+      <link>http://kaneeastertennis.com/fragments/proshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kaneeastertennis.com/fragments/programs/</guid>
-      <description>&lt;h1&gt;
-    &lt;a class=&#34;link&#34; href=&#34;http://kaneeastertennis.com/pages/leagues/&#34;&gt;
-        Other Programs
-        &lt;span class=&#34;glyphicon glyphicon-chevron-right&#34;&gt;&lt;/span&gt;
-    &lt;/a&gt;
-&lt;/h1&gt;
+      <guid>http://kaneeastertennis.com/fragments/proshop/</guid>
+      <description>
 
-&lt;blockquote&gt;
-&lt;p&gt;We have several program.&lt;/p&gt;
+&lt;h1 id=&#34;proshop-pages-proshop:aba39f0cfc95d78ed629178d20f70619&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.com/pages/proshop/&#34;&gt;Proshop&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://kaneeastertennis.com/fragments/galleries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.com/fragments/galleries/</guid>
+      <description>
 
-&lt;ul&gt;
-&lt;li&gt;Adult Clinics&lt;/li&gt;
-&lt;li&gt;Private lessons&lt;/li&gt;
-&lt;li&gt;Kids summer camps&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;h1 id=&#34;gallery-pages-private-lessons:eab057d024056ac51f616dd5ecde1fb3&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.com/pages/private-lessons/&#34;&gt;Gallery&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://kaneeastertennis.com/fragments/tennis-holiday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.com/fragments/tennis-holiday/</guid>
+      <description>
+
+&lt;h1 id=&#34;tennis-holiday-pages-tennis-holiday:e336c5ec5670351e67e9175c2a82b607&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.com/pages/tennis-holiday/&#34;&gt;Tennis Holiday&lt;/a&gt;&lt;/h1&gt;
 </description>
     </item>
     

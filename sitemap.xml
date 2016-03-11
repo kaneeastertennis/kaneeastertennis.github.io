@@ -11,15 +11,35 @@
   </url>
   
   <url>
+    <loc>http://kaneeastertennis.com/fragments/announcements/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.com/fragments/contact/</loc>
+  </url>
+  
+  <url>
     <loc>http://kaneeastertennis.com/fragments/frontpage/</loc>
   </url>
   
   <url>
-    <loc>http://kaneeastertennis.com/fragments/location/</loc>
+    <loc>http://kaneeastertennis.com/fragments/programs/</loc>
   </url>
   
   <url>
-    <loc>http://kaneeastertennis.com/pages/leagues/</loc>
+    <loc>http://kaneeastertennis.com/pages/adult-clinics/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.com/pages/junior-clinics/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.com/pages/tennis-aerobics/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.com/fragments/private-lessons/</loc>
   </url>
   
   <url>
@@ -27,11 +47,19 @@
   </url>
   
   <url>
-    <loc>http://kaneeastertennis.com/fragments/leagues/</loc>
+    <loc>http://kaneeastertennis.com/fragments/coaching-staff/</loc>
   </url>
   
   <url>
-    <loc>http://kaneeastertennis.com/fragments/programs/</loc>
+    <loc>http://kaneeastertennis.com/fragments/proshop/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.com/fragments/galleries/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.com/fragments/tennis-holiday/</loc>
   </url>
   
 </urlset>

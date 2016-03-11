@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fragments on My New Hugo Site</title>
+    <title>Fragments on Kane Easter Tennis</title>
     <link>http://kaneeastertennis.com/fragments/</link>
-    <description>Recent content in Fragments on My New Hugo Site</description>
+    <description>Recent content in Fragments on Kane Easter Tennis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://kaneeastertennis.com/fragments/index.xml" rel="self" type="application/rss+xml" />
@@ -35,6 +35,60 @@ tennis during the 1990s.&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>http://kaneeastertennis.com/fragments/announcements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.com/fragments/announcements/</guid>
+      <description>
+
+&lt;h1 id=&#34;announcement:dde0a44d86506453e3311e8949736bc4&#34;&gt;Announcement&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;August 1&lt;/em&gt; :
+Adult Clinic is almost full.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;August 1&lt;/em&gt; :
+Adult Clinic is almost full.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;style&gt;
+.announcement ul {
+}
+.announcement li {
+  margin-bottom: 15px;
+}
+.announcement li em {
+    font-family: &#34;Roboto&#34;;
+    font-style: normal;
+    font-size: 85%;
+    background: #888;
+    color: white;
+    border-radius: 3px;
+    padding: 3px 5px 3px 5px;
+    display: inline-block;
+}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://kaneeastertennis.com/fragments/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.com/fragments/contact/</guid>
+      <description>
+
+&lt;h1 id=&#34;contact:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Contact&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;kaneeastertennis.com&lt;/li&gt;
+&lt;li&gt;905-123-4567&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://kaneeastertennis.com/fragments/frontpage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -42,12 +96,12 @@ tennis during the 1990s.&lt;/p&gt;
       <description>&lt;div class=&#34;section&#34;&gt;
 
     &lt;div class=&#34;banner&#34; style=&#34;background:#629269&#34;&gt;
-        &lt;h1&gt;
-            Kane Easter &lt;i&gt;Tennis&lt;/i&gt;
+        &lt;h1 style=&#34;padding: 40px&#34;&gt;
+            Kane Easter Tennis
         &lt;/h1&gt;
         &lt;h2&gt; Oshawa, Ontario, 905-123-4567 &lt;/h2&gt;
         &lt;h2 class=&#34;email&#34;&gt; 
-            &lt;a href=&#34;mailto:xxx&#34;&gt;hi@kaneeastertennis.com &lt;/a&gt;
+            &lt;a href=&#34;mailto:xxx&#34;&gt;info@kaneeastertennis.com &lt;/a&gt;
         &lt;/h2&gt;
     &lt;/div&gt;
 
@@ -59,14 +113,33 @@ tennis during the 1990s.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://kaneeastertennis.com/fragments/location/</link>
+      <link>http://kaneeastertennis.com/fragments/programs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kaneeastertennis.com/fragments/location/</guid>
-      <description>&lt;h1&gt;Location&lt;/h1&gt;
-&lt;div style=&#34;padding-top: 20px&#34;&gt;
-&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2873.491789221723!2d-78.87045886886062!3d43.92849479519322!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sca!4v1456986366444&#34; width=&#34;400&#34; height=&#34;350&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      <guid>http://kaneeastertennis.com/fragments/programs/</guid>
+      <description>
+
+&lt;h1 id=&#34;programs-pages-programs:a9ecf96579d42e2d95f7c08aea480d4f&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.com/pages/programs/&#34;&gt;Programs&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;We offer a variety of tennis programs.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kaneeastertennis.com/pages/junior-clinics/&#34;&gt;Junior clinics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kaneeastertennis.com/pages/adult-clinics/&#34;&gt;Adult clinics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kaneeastertennis.com/pages/tennis-aerobics&#34;&gt;Tennis Aerobics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://kaneeastertennis.com/fragments/private-lessons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.com/fragments/private-lessons/</guid>
+      <description>
+
+&lt;h1 id=&#34;private-lessons-pages-private-lessons:b9c4293b2b6bc6918eba9e411727943c&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.com/pages/private-lessons&#34;&gt;Private Lessons&lt;/a&gt;&lt;/h1&gt;
 </description>
     </item>
     
@@ -76,67 +149,57 @@ tennis during the 1990s.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kaneeastertennis.com/fragments/camps/</guid>
-      <description>&lt;h1&gt;
-    &lt;a class=&#34;link&#34; href=&#34;http://kaneeastertennis.com/pages/leagues/&#34;&gt;
-        Camps
-        &lt;span class=&#34;glyphicon glyphicon-chevron-right&#34;&gt;&lt;/span&gt;
-    &lt;/a&gt;
-&lt;/h1&gt;
+      <description>
 
-&lt;blockquote&gt;
-&lt;p&gt;We offer summer tennis camps for kids from 5 to 16 (co-ed).
-We provide several options.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Morning 9:30am - 12:00 noon&lt;/li&gt;
-&lt;li&gt;Afternoon  1:00pm - 3:30pm&lt;/li&gt;
-&lt;li&gt;Full day 9:30am - 3:30pm&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;h1 id=&#34;summer-camps-pages-campus:b608fc042028e15347dc7f4e64ca33eb&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.com/pages/campus/&#34;&gt;Summer Camps&lt;/a&gt;&lt;/h1&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://kaneeastertennis.com/fragments/leagues/</link>
+      <link>http://kaneeastertennis.com/fragments/coaching-staff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kaneeastertennis.com/fragments/leagues/</guid>
-      <description>&lt;h1&gt;
-    &lt;a class=&#34;link&#34; href=&#34;http://kaneeastertennis.com/pages/leagues/&#34;&gt;
-        Leagues
-        &lt;span class=&#34;glyphicon glyphicon-chevron-right&#34;&gt;&lt;/span&gt;
-    &lt;/a&gt;
-&lt;/h1&gt;
+      <guid>http://kaneeastertennis.com/fragments/coaching-staff/</guid>
+      <description>
 
-&lt;blockquote&gt;
-&lt;p&gt;House Leagues&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h1 id=&#34;coaching-staff-pages-coaching-staff:7b158596ea884d502f6baaf107a8d264&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.com/pages/coaching-staff&#34;&gt;Coaching Staff&lt;/a&gt;&lt;/h1&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://kaneeastertennis.com/fragments/programs/</link>
+      <link>http://kaneeastertennis.com/fragments/proshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kaneeastertennis.com/fragments/programs/</guid>
-      <description>&lt;h1&gt;
-    &lt;a class=&#34;link&#34; href=&#34;http://kaneeastertennis.com/pages/leagues/&#34;&gt;
-        Other Programs
-        &lt;span class=&#34;glyphicon glyphicon-chevron-right&#34;&gt;&lt;/span&gt;
-    &lt;/a&gt;
-&lt;/h1&gt;
+      <guid>http://kaneeastertennis.com/fragments/proshop/</guid>
+      <description>
 
-&lt;blockquote&gt;
-&lt;p&gt;We have several program.&lt;/p&gt;
+&lt;h1 id=&#34;proshop-pages-proshop:aba39f0cfc95d78ed629178d20f70619&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.com/pages/proshop/&#34;&gt;Proshop&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://kaneeastertennis.com/fragments/galleries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.com/fragments/galleries/</guid>
+      <description>
 
-&lt;ul&gt;
-&lt;li&gt;Adult Clinics&lt;/li&gt;
-&lt;li&gt;Private lessons&lt;/li&gt;
-&lt;li&gt;Kids summer camps&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;h1 id=&#34;gallery-pages-private-lessons:eab057d024056ac51f616dd5ecde1fb3&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.com/pages/private-lessons/&#34;&gt;Gallery&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://kaneeastertennis.com/fragments/tennis-holiday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.com/fragments/tennis-holiday/</guid>
+      <description>
+
+&lt;h1 id=&#34;tennis-holiday-pages-tennis-holiday:e336c5ec5670351e67e9175c2a82b607&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.com/pages/tennis-holiday/&#34;&gt;Tennis Holiday&lt;/a&gt;&lt;/h1&gt;
 </description>
     </item>
     
