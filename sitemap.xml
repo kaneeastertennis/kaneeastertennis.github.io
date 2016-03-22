@@ -11,14 +11,6 @@
   </url>
   
   <url>
-    <loc>http://kaneeastertennis.github.io/fragments/announcements/</loc>
-  </url>
-  
-  <url>
-    <loc>http://kaneeastertennis.github.io/fragments/contact/</loc>
-  </url>
-  
-  <url>
     <loc>http://kaneeastertennis.github.io/fragments/frontpage/</loc>
   </url>
   
@@ -27,7 +19,15 @@
   </url>
   
   <url>
+    <loc>http://kaneeastertennis.github.io/fragments/tweets/</loc>
+  </url>
+  
+  <url>
     <loc>http://kaneeastertennis.github.io/pages/adult-clinics/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.github.io/pages/camps/</loc>
   </url>
   
   <url>

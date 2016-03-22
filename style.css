@@ -81,7 +81,6 @@ table th {
 @media(min-width : 992px) {
     .card {
         height: 280px;
-        padding: 20px;
     }
 }
 
@@ -123,9 +122,22 @@ table th {
 }
 @media(min-width: 992px) {
     .payment {
-        width: 50%;
-        margin-left: auto;
     }
 }
 
-
+/* =========== PDF ============== */
+div.pdf {
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+div.pdf > a {
+    display: inline-block;
+    font-size: 80%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+div.pdf > canvas {
+    display: inline-block;
+}

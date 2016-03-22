@@ -30,60 +30,14 @@ Agassi compiled performances that, along with his unorthodox apparel and
 attitude, saw him cited as one of the most charismatic players in the history of
 the game. As a result, he is credited for helping to revive the popularity of
 tennis during the 1990s.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://kaneeastertennis.github.io/fragments/announcements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaneeastertennis.github.io/fragments/announcements/</guid>
-      <description>
 
-&lt;h1 id=&#34;announcement:dde0a44d86506453e3311e8949736bc4&#34;&gt;Announcement&lt;/h1&gt;
+&lt;h1 id=&#34;contact:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Contact&lt;/h1&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;August 1&lt;/em&gt; :
-Adult Clinic is almost full.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;August 1&lt;/em&gt; :
-Adult Clinic is almost full.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;style&gt;
-.announcement ul {
-}
-.announcement li {
-  margin-bottom: 15px;
-}
-.announcement li em {
-    font-family: &#34;Roboto&#34;;
-    font-style: normal;
-    font-size: 85%;
-    background: #888;
-    color: white;
-    border-radius: 3px;
-    padding: 3px 5px 3px 5px;
-    display: inline-block;
-}
-&lt;/style&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://kaneeastertennis.github.io/fragments/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaneeastertennis.github.io/fragments/contact/</guid>
-      <description>
-
-&lt;h1 id=&#34;contact:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Contact&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;kaneeastertennis.com&lt;/li&gt;
-&lt;li&gt;905-123-4567&lt;/li&gt;
-&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Kane Easter &lt;br&gt;
+905-123-4567 &lt;br&gt;
+kaneeastertennis@gmail.com &lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -133,6 +87,24 @@ Adult Clinic is almost full.&lt;/li&gt;
     
     <item>
       <title></title>
+      <link>http://kaneeastertennis.github.io/fragments/tweets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.github.io/fragments/tweets/</guid>
+      <description>&lt;h1&gt;News&lt;/h1&gt;
+
+&lt;a 
+    class=&#34;twitter-timeline&#34; 
+    href=&#34;https://twitter.com/kenpu&#34; 
+    data-widget-id=&#34;709921578608250880&#34;
+    height=&#34;600&#34;&gt;Tweets by @kenpu&lt;/a&gt;
+&lt;script&gt;!function(d,s,id){var
+js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&#39;https&#39;;if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+&#34;://platform.twitter.com/widgets.js&#34;;fjs.parentNode.insertBefore(js,fjs);}}(document,&#34;script&#34;,&#34;twitter-wjs&#34;);&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://kaneeastertennis.github.io/fragments/private-lessons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -151,7 +123,7 @@ Adult Clinic is almost full.&lt;/li&gt;
       <guid>http://kaneeastertennis.github.io/fragments/camps/</guid>
       <description>
 
-&lt;h1 id=&#34;summer-camps-pages-campus:b608fc042028e15347dc7f4e64ca33eb&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.github.io/pages/campus/&#34;&gt;Summer Camps&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;summer-camps-pages-camps:b608fc042028e15347dc7f4e64ca33eb&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.github.io/pages/camps/&#34;&gt;Summer Camps&lt;/a&gt;&lt;/h1&gt;
 </description>
     </item>
     
