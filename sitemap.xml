@@ -23,6 +23,14 @@
   </url>
   
   <url>
+    <loc>http://kaneeastertennis.github.io/pages/private-lessons/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.github.io/pages/proshop/</loc>
+  </url>
+  
+  <url>
     <loc>http://kaneeastertennis.github.io/pages/adult-clinics/</loc>
   </url>
   
@@ -39,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://kaneeastertennis.github.io/fragments/private-lessons/</loc>
+    <loc>http://kaneeastertennis.github.io/pages/tennis-holiday/</loc>
   </url>
   
   <url>
@@ -47,7 +55,11 @@
   </url>
   
   <url>
-    <loc>http://kaneeastertennis.github.io/fragments/coaching-staff/</loc>
+    <loc>http://kaneeastertennis.github.io/fragments/private-lessons/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.github.io/fragments/tennis-holiday/</loc>
   </url>
   
   <url>
@@ -56,10 +68,6 @@
   
   <url>
     <loc>http://kaneeastertennis.github.io/fragments/galleries/</loc>
-  </url>
-  
-  <url>
-    <loc>http://kaneeastertennis.github.io/fragments/tennis-holiday/</loc>
   </url>
   
 </urlset>

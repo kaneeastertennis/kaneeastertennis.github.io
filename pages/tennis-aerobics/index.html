@@ -15,6 +15,28 @@
     
     
 
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container-fluid">
+    
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">Kane Easter Tennis</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="/">Go back</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
 
 <div class="container">
     <div class="pages-content program">
@@ -61,6 +83,13 @@
 </div>
 </div>
 
+<div style="width: 100%;
+            text-align: right;
+            font-family: Roboto;
+            font-weight: 300;
+            padding: 10px 10px 10px 0;">
+    <p>Kane Easter, Copyright 2016 &copy;</p>
+</div>
 <script src="/js/jquery-2.2.1.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 
@@ -110,6 +139,13 @@ $("canvas[pdf]").each(function() {
 });
 </script>
 
+
+<script>
+
+if($(".navbar-fixed-top").size() > 0) {
+    $("body").css("margin-top", 50);
+}
+</script>
 </body>
 </html>
 

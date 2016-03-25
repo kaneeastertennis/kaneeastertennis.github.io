@@ -16,28 +16,43 @@
       <guid>http://kaneeastertennis.github.io/fragments/about/</guid>
       <description>
 
-&lt;h1 id=&#34;about-andrei:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About Andrei&lt;/h1&gt;
+&lt;h1 id=&#34;about-kane-easter:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About Kane Easter&lt;/h1&gt;
 
-&lt;p&gt;&lt;img class=&#34;embedded&#34; src=&#34;http://kaneeastertennis.github.io/images/agassi-cover.jpg&#34;&gt;&lt;/img&gt;
-Andre Kirk Agassi (/ˈɑːndreɪ ˈæɡəsi/; born April 29, 1970) is an American
-retired professional tennis player and former World No. 1, who was one of the
-game&amp;rsquo;s most dominant players from the early 1990s to the mid-2000s. Generally
-considered by critics and fellow players to be one of the greatest tennis
-players of all time, Agassi had been called the greatest service
-returner in the history of the game. Described by the BBC upon his
-retirement as &amp;ldquo;perhaps the biggest worldwide star in the sport&amp;rsquo;s history&amp;rdquo;,
-Agassi compiled performances that, along with his unorthodox apparel and
-attitude, saw him cited as one of the most charismatic players in the history of
-the game. As a result, he is credited for helping to revive the popularity of
-tennis during the 1990s.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;embedded&#34; src=&#34;http://kaneeastertennis.github.io/images/kaneeaster-sm.png&#34;&gt;&lt;/img&gt;
+I was born and raised on the small island of St.Lucia in the Caribbean. I
+started playing tennis at the age of 5, my father is also a tennis professional,
+and grew up in what is currently the Sandals Regency La Toc Resort in St.Lucia.
+My Dad was the hotel tennis pro and we lived in one of the villas for 10 years.
+As I improved, I travelled far and wide to play tournaments. At 15, I left
+St.Lucia for good to train at the prestigious Saddlebrook Academy in Florida,
+training ground for Pete Sampras (former #1 in the world) and Jennifer Capriati
+(former #1 in the world), for my last 2 years of high school. From there I
+received a tennis scholarship to the University of Louisville where I received a
+Bachelors in Chemical Engineering. After travelling for a year, I made my final
+stop in Whitby, Ontario in 2001 where I still call home today.&lt;/p&gt;
+
+&lt;p&gt;Personally I am now a husband and father of 3 children, 6, 5 and 3, who are all
+starting to participate in the sport I love, which has been my life from the age
+of 5. Through tennis I have travelled to many countries and islands, and I wish
+that opportunity on any junior, or senior, who picks up a racquet to learn the
+game. I consider myself truly lucky having this sport in my life.&lt;/p&gt;
+
+&lt;p&gt;Enjoy the game!&lt;/p&gt;
 
 &lt;h1 id=&#34;contact:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Contact&lt;/h1&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Kane Easter &lt;br&gt;
-905-123-4567 &lt;br&gt;
+905-767-2612 &lt;br&gt;
+PO Box 30075 Brooklin Towne Centre, Whitby, ON, L1M 0B5 &lt;br&gt;
 kaneeastertennis@gmail.com &lt;br&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;style&gt;
+.about p {
+text-align: justify;
+}
+&lt;/style&gt;
 </description>
     </item>
     
@@ -50,12 +65,10 @@ kaneeastertennis@gmail.com &lt;br&gt;&lt;/p&gt;
       <description>&lt;div class=&#34;section&#34;&gt;
 
     &lt;div class=&#34;banner&#34; style=&#34;background:#629269&#34;&gt;
-        &lt;h1 style=&#34;padding: 40px&#34;&gt;
-            Kane Easter Tennis
-        &lt;/h1&gt;
-        &lt;h2&gt; Oshawa, Ontario, 905-123-4567 &lt;/h2&gt;
+        &lt;h1 style=&#34;padding: 40px&#34;&gt; Kane Easter Tennis &lt;/h1&gt;
+        &lt;h2&gt; Oshawa, Ontario, 905-767-2612 &lt;/h2&gt;
         &lt;h2 class=&#34;email&#34;&gt; 
-            &lt;a href=&#34;mailto:xxx&#34;&gt;info@kaneeastertennis.com &lt;/a&gt;
+            &lt;a href=&#34;mailto:kaneeastertennis@gmail.com&#34;&gt;kaneeastertennis@gmail.com &lt;/a&gt;
         &lt;/h2&gt;
     &lt;/div&gt;
 
@@ -73,7 +86,7 @@ kaneeastertennis@gmail.com &lt;br&gt;&lt;/p&gt;
       <guid>http://kaneeastertennis.github.io/fragments/programs/</guid>
       <description>
 
-&lt;h1 id=&#34;programs-pages-programs:a9ecf96579d42e2d95f7c08aea480d4f&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.github.io/pages/programs/&#34;&gt;Programs&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;programs:a9ecf96579d42e2d95f7c08aea480d4f&#34;&gt;Programs&lt;/h1&gt;
 
 &lt;p&gt;We offer a variety of tennis programs.&lt;/p&gt;
 
@@ -93,13 +106,39 @@ kaneeastertennis@gmail.com &lt;br&gt;&lt;/p&gt;
       <guid>http://kaneeastertennis.github.io/fragments/tweets/</guid>
       <description>&lt;h1&gt;News&lt;/h1&gt;
 
-&lt;a 
-    class=&#34;twitter-timeline&#34; 
-    href=&#34;https://twitter.com/kenpu&#34; 
-    data-widget-id=&#34;709921578608250880&#34;
-    height=&#34;600&#34;&gt;Tweets by @kenpu&lt;/a&gt;
+&lt;a class=&#34;twitter-timeline&#34; data-dnt=&#34;true&#34;
+    href=&#34;https://twitter.com/kaneeastertenni&#34;
+    data-widget-id=&#34;713238168049475584&#34;&gt;Tweets by @kaneeastertennis&lt;/a&gt;
 &lt;script&gt;!function(d,s,id){var
 js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&#39;https&#39;;if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+&#34;://platform.twitter.com/widgets.js&#34;;fjs.parentNode.insertBefore(js,fjs);}}(document,&#34;script&#34;,&#34;twitter-wjs&#34;);&lt;/script&gt;
+
+&lt;style&gt;
+div.timeline-header { display: none; }
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://kaneeastertennis.github.io/pages/private-lessons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.github.io/pages/private-lessons/</guid>
+      <description>
+
+&lt;h1 id=&#34;coming-soon:b9c4293b2b6bc6918eba9e411727943c&#34;&gt;Coming soon&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://kaneeastertennis.github.io/pages/proshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.github.io/pages/proshop/</guid>
+      <description>
+
+&lt;h1 id=&#34;coming-soon:aba39f0cfc95d78ed629178d20f70619&#34;&gt;Coming soon&lt;/h1&gt;
 </description>
     </item>
     
@@ -153,7 +192,41 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kaneeastertennis.github.io/pages/camps/</guid>
-      <description>&lt;canvas pdf=&#34;/pdfs/summer-camp-2016.pdf&#34; width=800&gt;&lt;/canvas&gt;
+      <description>
+
+&lt;h1 id=&#34;summer-camps:b608fc042028e15347dc7f4e64ca33eb&#34;&gt;Summer Camps&lt;/h1&gt;
+
+&lt;h2 id=&#34;payment:b608fc042028e15347dc7f4e64ca33eb&#34;&gt;Payment&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&#34;payment&#34;&gt;
+    &lt;p&gt;&lt;span class=&#34;label label-primary&#34;&gt;Method of payment&lt;/span&gt;&lt;p&gt;
+    &lt;ol&gt;
+        &lt;li&gt;Complete the 
+            &lt;a href=&#34;http://kaneeastertennis.github.io/pdfs/RegistrationForm.pdf&#34;&gt;
+                registration form
+                &lt;i style=&#34;color:red&#34; class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li&gt;Please include a cheque payable to: &lt;em&gt;Kane Easter&lt;/em&gt;&lt;/li&gt;
+        &lt;li&gt;Mail to:
+            &lt;p style=&#34;font-family:Roboto; font-size: 80%&#34; 
+               class=&#34;alert alert-info&#34;&gt;
+            Kane Easter &lt;br&gt;
+            PO Box 30075 Brooklin Towne Centre &lt;br&gt;
+            Whitby ON, L1M 0B5
+            &lt;/p&gt;
+        &lt;/li&gt;
+    &lt;/ol&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;pamphlet:b608fc042028e15347dc7f4e64ca33eb&#34;&gt;Pamphlet&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;canvas download=1 pdf=&#34;/pdfs/summer-camp-2016.pdf&#34; width=800&gt;&lt;/canvas&gt;
 </description>
     </item>
     
@@ -201,6 +274,21 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&
 905. 767. 2612 or email &lt;code&gt;kaneeastertennis@gmail.com&lt;/code&gt;&lt;/p&gt;
 
 &lt;canvas width=800 pdf=&#34;/pdfs/JuniorClinic.pdf&#34; download=yes&gt;&lt;/canvas&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;locations:a701f2c91f51372d531c6c0c6d267059&#34;&gt;Locations&lt;/h2&gt;
+
+&lt;div class=row&gt;
+    &lt;div class=&#34;col-md-6&#34;&gt;
+        &lt;h4&gt;Alexandra Park&lt;/h4&gt;
+        &lt;img style=&#34;width:100%&#34; src=&#34;http://kaneeastertennis.github.io/images/alexander-park.png&#34;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-md-6&#34;&gt;
+        &lt;h4&gt;North Oshawa&lt;/h4&gt;
+        &lt;img style=&#34;width:100%&#34; src=&#34;http://kaneeastertennis.github.io/images/north-oshawa.png&#34;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -255,14 +343,60 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&
     </item>
     
     <item>
-      <title></title>
-      <link>http://kaneeastertennis.github.io/fragments/private-lessons/</link>
+      <title>Tennis Holiday</title>
+      <link>http://kaneeastertennis.github.io/pages/tennis-holiday/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kaneeastertennis.github.io/fragments/private-lessons/</guid>
+      <guid>http://kaneeastertennis.github.io/pages/tennis-holiday/</guid>
       <description>
 
-&lt;h1 id=&#34;private-lessons-pages-private-lessons:b9c4293b2b6bc6918eba9e411727943c&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.github.io/pages/private-lessons&#34;&gt;Private Lessons&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;tennis-holiday:e336c5ec5670351e67e9175c2a82b607&#34;&gt;Tennis Holiday&lt;/h1&gt;
+
+&lt;h2 id=&#34;about:e336c5ec5670351e67e9175c2a82b607&#34;&gt;About&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;My Dad and I have run St. Lucia Tennis holidays for Oshawa Tennis Club
+players, their friends and other Durham region players for the last 3 years.
+The idea behind the tennis holiday was to give a unique tour of St. Lucia with
+my dad and myself who grew up on the island.  A different holiday from what
+you would normally experience at an all inclusive hotel vacation. We stayed at
+the beautiful Landings Hotel resort St. Lucia the last 3 years and the trips
+have left the members with a lifetime memory.&lt;/p&gt;
+
+&lt;p&gt;Although a disappointment that we are not returning to St. Lucia in 2016, we
+thought a different venue would be a fashionable choice.  We are going on our
+first Antigua Tennis Holiday 2016. We have friends in Antigua and have played
+there in many tennis tournaments over the years. We are staying at the St.
+James Club Antigua. The resort has four tennis courts, which will accommodate
+20-24 tennis players; however, non tennis players are always welcome to
+experience the trip with us.  We are excited to announce that the Antigua trip
+2016 is FULL with, 22 tennis players and 29 total travellers. WOW!  An
+additional 2016 tennis holiday may be considered for late September this year
+depending on numbers.  This is our fourth Tennis Holiday and each year we have
+seen the numbers increase, so if interested in September, please contact
+me. You must be an intermediate level player or better to come on the trip. If
+you are unsure of your level, please contact us by email at
+&lt;code&gt;kaneeastertennis@gmail.com&lt;/code&gt; or &lt;code&gt;john@johneaster.com&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div style=&#34;text-align:right&#34;&gt;
+&lt;p&gt;Regards,&lt;/p&gt;
+&lt;i&gt;Kane Easter&lt;/i&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;canvas width=800 download=yes pdf=/pdfs/tennis-holiday-2016.pdf&gt;&lt;/canvas&gt;
+
+&lt;style&gt;
+.tennis-holiday blockquote {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    border: none;
+}
+&lt;/style&gt;
 </description>
     </item>
     
@@ -280,37 +414,13 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&
     
     <item>
       <title></title>
-      <link>http://kaneeastertennis.github.io/fragments/coaching-staff/</link>
+      <link>http://kaneeastertennis.github.io/fragments/private-lessons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kaneeastertennis.github.io/fragments/coaching-staff/</guid>
+      <guid>http://kaneeastertennis.github.io/fragments/private-lessons/</guid>
       <description>
 
-&lt;h1 id=&#34;coaching-staff-pages-coaching-staff:7b158596ea884d502f6baaf107a8d264&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.github.io/pages/coaching-staff&#34;&gt;Coaching Staff&lt;/a&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://kaneeastertennis.github.io/fragments/proshop/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaneeastertennis.github.io/fragments/proshop/</guid>
-      <description>
-
-&lt;h1 id=&#34;proshop-pages-proshop:aba39f0cfc95d78ed629178d20f70619&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.github.io/pages/proshop/&#34;&gt;Proshop&lt;/a&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://kaneeastertennis.github.io/fragments/galleries/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaneeastertennis.github.io/fragments/galleries/</guid>
-      <description>
-
-&lt;h1 id=&#34;gallery-pages-private-lessons:eab057d024056ac51f616dd5ecde1fb3&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.github.io/pages/private-lessons/&#34;&gt;Gallery&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;private-lessons-pages-private-lessons:b9c4293b2b6bc6918eba9e411727943c&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.github.io/pages/private-lessons&#34;&gt;Private Lessons&lt;/a&gt;&lt;/h1&gt;
 </description>
     </item>
     
@@ -323,6 +433,18 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&
       <description>
 
 &lt;h1 id=&#34;tennis-holiday-pages-tennis-holiday:e336c5ec5670351e67e9175c2a82b607&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.github.io/pages/tennis-holiday/&#34;&gt;Tennis Holiday&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://kaneeastertennis.github.io/fragments/proshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.github.io/fragments/proshop/</guid>
+      <description>
+
+&lt;h1 id=&#34;proshop-pages-proshop:aba39f0cfc95d78ed629178d20f70619&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.github.io/pages/proshop/&#34;&gt;Proshop&lt;/a&gt;&lt;/h1&gt;
 </description>
     </item>
     

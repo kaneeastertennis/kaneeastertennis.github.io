@@ -9,6 +9,30 @@
     <atom:link href="http://kaneeastertennis.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title></title>
+      <link>http://kaneeastertennis.github.io/pages/private-lessons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.github.io/pages/private-lessons/</guid>
+      <description>
+
+&lt;h1 id=&#34;coming-soon:b9c4293b2b6bc6918eba9e411727943c&#34;&gt;Coming soon&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://kaneeastertennis.github.io/pages/proshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.github.io/pages/proshop/</guid>
+      <description>
+
+&lt;h1 id=&#34;coming-soon:aba39f0cfc95d78ed629178d20f70619&#34;&gt;Coming soon&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Adult Clinics</title>
       <link>http://kaneeastertennis.github.io/pages/adult-clinics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -58,7 +82,41 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kaneeastertennis.github.io/pages/camps/</guid>
-      <description>&lt;canvas pdf=&#34;/pdfs/summer-camp-2016.pdf&#34; width=800&gt;&lt;/canvas&gt;
+      <description>
+
+&lt;h1 id=&#34;summer-camps:b608fc042028e15347dc7f4e64ca33eb&#34;&gt;Summer Camps&lt;/h1&gt;
+
+&lt;h2 id=&#34;payment:b608fc042028e15347dc7f4e64ca33eb&#34;&gt;Payment&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&#34;payment&#34;&gt;
+    &lt;p&gt;&lt;span class=&#34;label label-primary&#34;&gt;Method of payment&lt;/span&gt;&lt;p&gt;
+    &lt;ol&gt;
+        &lt;li&gt;Complete the 
+            &lt;a href=&#34;http://kaneeastertennis.github.io/pdfs/RegistrationForm.pdf&#34;&gt;
+                registration form
+                &lt;i style=&#34;color:red&#34; class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li&gt;Please include a cheque payable to: &lt;em&gt;Kane Easter&lt;/em&gt;&lt;/li&gt;
+        &lt;li&gt;Mail to:
+            &lt;p style=&#34;font-family:Roboto; font-size: 80%&#34; 
+               class=&#34;alert alert-info&#34;&gt;
+            Kane Easter &lt;br&gt;
+            PO Box 30075 Brooklin Towne Centre &lt;br&gt;
+            Whitby ON, L1M 0B5
+            &lt;/p&gt;
+        &lt;/li&gt;
+    &lt;/ol&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;pamphlet:b608fc042028e15347dc7f4e64ca33eb&#34;&gt;Pamphlet&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;canvas download=1 pdf=&#34;/pdfs/summer-camp-2016.pdf&#34; width=800&gt;&lt;/canvas&gt;
 </description>
     </item>
     
@@ -106,6 +164,21 @@
 905. 767. 2612 or email &lt;code&gt;kaneeastertennis@gmail.com&lt;/code&gt;&lt;/p&gt;
 
 &lt;canvas width=800 pdf=&#34;/pdfs/JuniorClinic.pdf&#34; download=yes&gt;&lt;/canvas&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;locations:a701f2c91f51372d531c6c0c6d267059&#34;&gt;Locations&lt;/h2&gt;
+
+&lt;div class=row&gt;
+    &lt;div class=&#34;col-md-6&#34;&gt;
+        &lt;h4&gt;Alexandra Park&lt;/h4&gt;
+        &lt;img style=&#34;width:100%&#34; src=&#34;http://kaneeastertennis.github.io/images/alexander-park.png&#34;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-md-6&#34;&gt;
+        &lt;h4&gt;North Oshawa&lt;/h4&gt;
+        &lt;img style=&#34;width:100%&#34; src=&#34;http://kaneeastertennis.github.io/images/north-oshawa.png&#34;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -156,6 +229,64 @@
 &lt;h2 id=&#34;schedule:76927edb9b3377630cdfd57341b76a64&#34;&gt;Schedule&lt;/h2&gt;
 
 &lt;canvas width=800 download=yes pdf=/pdfs/TennisAerobics.pdf&gt;&lt;/canvas&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tennis Holiday</title>
+      <link>http://kaneeastertennis.github.io/pages/tennis-holiday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaneeastertennis.github.io/pages/tennis-holiday/</guid>
+      <description>
+
+&lt;h1 id=&#34;tennis-holiday:e336c5ec5670351e67e9175c2a82b607&#34;&gt;Tennis Holiday&lt;/h1&gt;
+
+&lt;h2 id=&#34;about:e336c5ec5670351e67e9175c2a82b607&#34;&gt;About&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;My Dad and I have run St. Lucia Tennis holidays for Oshawa Tennis Club
+players, their friends and other Durham region players for the last 3 years.
+The idea behind the tennis holiday was to give a unique tour of St. Lucia with
+my dad and myself who grew up on the island.  A different holiday from what
+you would normally experience at an all inclusive hotel vacation. We stayed at
+the beautiful Landings Hotel resort St. Lucia the last 3 years and the trips
+have left the members with a lifetime memory.&lt;/p&gt;
+
+&lt;p&gt;Although a disappointment that we are not returning to St. Lucia in 2016, we
+thought a different venue would be a fashionable choice.  We are going on our
+first Antigua Tennis Holiday 2016. We have friends in Antigua and have played
+there in many tennis tournaments over the years. We are staying at the St.
+James Club Antigua. The resort has four tennis courts, which will accommodate
+20-24 tennis players; however, non tennis players are always welcome to
+experience the trip with us.  We are excited to announce that the Antigua trip
+2016 is FULL with, 22 tennis players and 29 total travellers. WOW!  An
+additional 2016 tennis holiday may be considered for late September this year
+depending on numbers.  This is our fourth Tennis Holiday and each year we have
+seen the numbers increase, so if interested in September, please contact
+me. You must be an intermediate level player or better to come on the trip. If
+you are unsure of your level, please contact us by email at
+&lt;code&gt;kaneeastertennis@gmail.com&lt;/code&gt; or &lt;code&gt;john@johneaster.com&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div style=&#34;text-align:right&#34;&gt;
+&lt;p&gt;Regards,&lt;/p&gt;
+&lt;i&gt;Kane Easter&lt;/i&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;canvas width=800 download=yes pdf=/pdfs/tennis-holiday-2016.pdf&gt;&lt;/canvas&gt;
+
+&lt;style&gt;
+.tennis-holiday blockquote {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    border: none;
+}
+&lt;/style&gt;
 </description>
     </item>
     
