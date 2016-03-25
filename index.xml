@@ -126,7 +126,48 @@ div.timeline-header { display: none; }
       <guid>http://kaneeastertennis.github.io/pages/private-lessons/</guid>
       <description>
 
-&lt;h1 id=&#34;coming-soon:b9c4293b2b6bc6918eba9e411727943c&#34;&gt;Coming soon&lt;/h1&gt;
+&lt;h1 id=&#34;private-lessons:b9c4293b2b6bc6918eba9e411727943c&#34;&gt;Private Lessons&lt;/h1&gt;
+
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;&lt;/th&gt;
+        &lt;th&gt; Kane Easter &lt;br&gt; John Easter &lt;/th&gt;
+        &lt;th&gt; Allan Care &lt;/th&gt;
+        &lt;th&gt; Glenn Cunningham &lt;br&gt;
+             Bianca Easter &lt;br&gt;
+             Joe Cambareri &lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt; 1 hour &lt;/td&gt;
+        &lt;td&gt; $50 &lt;/td&gt;
+        &lt;td&gt; $46 &lt;/td&gt;
+        &lt;td&gt; $42 &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt; 1/2 hour &lt;/td&gt;
+        &lt;td&gt; $27 &lt;/td&gt;
+        &lt;td&gt; $25 &lt;/td&gt;
+        &lt;td&gt; $22 &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt; 1 hour, 2 people &lt;/td&gt;
+        &lt;td&gt; $27 each &lt;/td&gt;
+        &lt;td&gt; $25 each &lt;/td&gt;
+        &lt;td&gt; $22 each &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt; 1 hour, 3 people &lt;/td&gt;
+        &lt;td&gt; $18 each &lt;/td&gt;
+        &lt;td&gt; $17 each &lt;/td&gt;
+        &lt;td&gt; $15 each &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt; 1 hour, 4 people &lt;/td&gt;
+        &lt;td&gt; $14 each &lt;/td&gt;
+        &lt;td&gt; $13 each &lt;/td&gt;
+        &lt;td&gt; $12 each &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
 </description>
     </item>
     
