@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
     <head>
-    <title></title>
+    <title>Club Leagues</title>
     <meta name="viewport" content="width=device-width, 
                                      initial-scale=1,
                                      maximum-scale=1,
@@ -39,9 +39,11 @@
 
 
 <div class="container">
-    <div class="fragments-content col-md-3 card">
+    <div class="pages-content club-leagues">
 
-<h1 id="club-leagues-pages-club-leagues:83f3c1c3a670c611a012a88e677b713b"><a href="/pages/club-leagues/">Club Leagues</a></h1>
+<h1 id="club-leagues:47cea265da7f18dd7e4a2e64c26aa2c6">Club Leagues</h1>
+
+<canvas download=1 pdf="/pdfs/ClubLeagues.pdf" width=800></canvas>
 </div>
 </div>
 
@@ -58,6 +60,52 @@
 </div>
 <script src="/js/jquery-2.2.1.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
+
+<script src="/js/pdf.js"></script>
+<script>
+
+$("canvas[pdf]").each(function() {
+    var url = $(this).attr('pdf');
+    var canvas = this;
+
+    var div = $("<div>").addClass("pdf");
+    $(this).wrap(div);
+
+    if(url) {
+        PDFJS.disableWorker = true;
+        PDFJS.workerSrc = "/js/pdf.worker.js";
+        PDFJS.getDocument(url).then(function(pdf) {
+            pdf.getPage(1).then(function (page) {
+                var scale = canvas.width / page.getViewport(1.0).width;
+                var viewport = page.getViewport(scale);
+                var context = canvas.getContext('2d');
+
+                canvas.height = viewport.height;
+
+                var renderContext = {
+                  canvasContext: context,
+                  viewport: viewport
+                };
+                page.render(renderContext);
+            });
+        });
+
+        if($(canvas).attr("download")) {
+            var a = $("<a>")
+                    .addClass("label label-primary")
+                    .text("Direct download").attr('href', url)
+                    .append(
+                            $("<i>")
+                            .addClass("fa fa-file-pdf-o")
+                            .css({
+                                marginLeft: 10,
+                            }));
+
+            $(canvas).after(a);
+        }
+    }
+});
+</script>
 
 
 <script>
