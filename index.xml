@@ -160,13 +160,13 @@ div.timeline-header { display: none; }
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt; 1 hour, 3 people &lt;/td&gt;
-        &lt;td&gt; $18 each &lt;/td&gt;
+        &lt;td&gt; $20 each &lt;/td&gt;
         &lt;td&gt; $17 each &lt;/td&gt;
         &lt;td&gt; $15 each &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt; 1 hour, 4 people &lt;/td&gt;
-        &lt;td&gt; $14 each &lt;/td&gt;
+        &lt;td&gt; $15 each &lt;/td&gt;
         &lt;td&gt; $13 each &lt;/td&gt;
         &lt;td&gt; $12 each &lt;/td&gt;
     &lt;/tr&gt;
