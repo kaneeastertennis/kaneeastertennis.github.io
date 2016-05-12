@@ -529,6 +529,8 @@ reliable service.&lt;/p&gt;
 
 &lt;h2 id=&#34;about:e336c5ec5670351e67e9175c2a82b607&#34;&gt;About&lt;/h2&gt;
 
+&lt;hr /&gt;
+
 &lt;blockquote&gt;
 &lt;p&gt;My Dad and I have run St. Lucia Tennis holidays for Oshawa Tennis Club
 players, their friends and other Durham region players for the last 3 years.
@@ -557,7 +559,14 @@ you are unsure of your level, please contact us by email at
 &lt;p&gt;Regards,&lt;/p&gt;
 &lt;i&gt;Kane Easter&lt;/i&gt;
 &lt;/div&gt;
+
+&lt;figure&gt;
+&lt;img src=&#34;http://kaneeastertennis.github.io/gallery/tennis-holiday/tennis-holiday-2016.jpg&#34;&gt;&lt;/img&gt;
+&lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;/blockquote&gt;
+
+&lt;h2 id=&#34;information:e336c5ec5670351e67e9175c2a82b607&#34;&gt;Information&lt;/h2&gt;
 
 &lt;hr /&gt;
 
@@ -570,6 +579,12 @@ you are unsure of your level, please contact us by email at
     margin-right: auto;
     text-align: justify;
     border: none;
+}
+figure {
+    margin: 20px 0 20px 0;
+}
+figure img {
+    width: 100%;
 }
 &lt;/style&gt;
 </description>
