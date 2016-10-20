@@ -568,12 +568,6 @@ contact us by email at &lt;code&gt;kaneeastertennis@gmail.com&lt;/code&gt; or &l
 
 &lt;canvas width=800 download=yes pdf=/pdfs/tennis-holiday-2017.pdf&gt;&lt;/canvas&gt;
 
-&lt;h2 id=&#34;hotel&#34;&gt;Hotel&lt;/h2&gt;
-
-&lt;hr /&gt;
-
-&lt;canvas width=800 download=yes pdf=/pdfs/hotel-2017.pdf&gt;&lt;/canvas&gt;
-
 &lt;style&gt;
 .tennis-holiday blockquote {
     max-width: 600px;
