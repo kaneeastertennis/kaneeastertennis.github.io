@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kane Easter Tennis</title>
-    <link>http://kaneeastertennis.github.io/</link>
+    <link>http://kaneeastertennis.github.io/index.xml</link>
     <description>Recent content on Kane Easter Tennis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>

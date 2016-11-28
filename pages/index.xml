@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Kane Easter Tennis</title>
-    <link>http://kaneeastertennis.github.io/pages/</link>
-    <description>Recent content in Pages on Kane Easter Tennis</description>
+    <title>Pages-rsses on Kane Easter Tennis</title>
+    <link>http://kaneeastertennis.github.io/pages/index.xml</link>
+    <description>Recent content in Pages-rsses on Kane Easter Tennis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://kaneeastertennis.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
