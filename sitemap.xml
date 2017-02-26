@@ -2,7 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://kaneeastertennis.github.io/</loc>
+    <loc>http://kaneeastertennis.github.io/fragments/camps/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.github.io/fragments/private-lessons/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.github.io/fragments/leagues/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.github.io/fragments/tennis-holiday/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.github.io/fragments/proshop/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.github.io/fragments/galleries/</loc>
   </url>
   
   <url>
@@ -42,7 +62,22 @@
   </url>
   
   <url>
+    <loc>http://kaneeastertennis.github.io/fragments/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://kaneeastertennis.github.io/pages/junior-clinics/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kaneeastertennis.github.io/pages/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -51,30 +86,6 @@
   
   <url>
     <loc>http://kaneeastertennis.github.io/pages/tennis-holiday/</loc>
-  </url>
-  
-  <url>
-    <loc>http://kaneeastertennis.github.io/fragments/camps/</loc>
-  </url>
-  
-  <url>
-    <loc>http://kaneeastertennis.github.io/fragments/private-lessons/</loc>
-  </url>
-  
-  <url>
-    <loc>http://kaneeastertennis.github.io/fragments/leagues/</loc>
-  </url>
-  
-  <url>
-    <loc>http://kaneeastertennis.github.io/fragments/tennis-holiday/</loc>
-  </url>
-  
-  <url>
-    <loc>http://kaneeastertennis.github.io/fragments/proshop/</loc>
-  </url>
-  
-  <url>
-    <loc>http://kaneeastertennis.github.io/fragments/galleries/</loc>
   </url>
   
 </urlset>
