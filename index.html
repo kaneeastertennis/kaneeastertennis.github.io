@@ -17,10 +17,38 @@
     
 
 
+<style>
+    .box {
+        flex: 1;
+        display: flex;
+        min-width: 33%;
+        max-width: 33%;
+        min-height: 200px;
+        padding: 10px;
+    }
+    .box a {
+        display: flex;
+        flex: 1;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        font-size: 14pt;
+        padding: 0;
+        margin: 0;
+        background: RGBA(0, 0, 0, 0.1);
+        color: teal;
+        transition: all 0.4s;
+    }
+    .box:hover a {
+        background: #eee;
+        font-size: 18pt;
+    }
+</style>
 
-<div class="strip">
-    
-    <div class=""><div class="section">
+<div class="container-fluid">
+    <div>
+        
+            <div><div class="section">
 
     <div class="banner" style="background:#629269">
         <h1 style="padding: 40px"> Kane Easter Tennis </h1>
@@ -34,15 +62,12 @@
         style="background-image:url('/images/frontpage.section.png')"></div>
 </div>
 </div>
-    
-</div>
-
-
-<div class="strip" style="background:#fff">
-    <div class="container">
-        <div class="row">
+        
+    </div>
+    <div class="row">
+        <div class="col-sm-6">
             
-            <div class="col-md-8 about"><div>
+            <div>
 
 <h1 id="about-kane-easter">About Kane Easter</h1>
 
@@ -82,13 +107,63 @@ kaneeastertennis@gmail.com <br></p>
 </blockquote>
 
 <style>
-.about p {
+p {
 text-align: justify;
 }
 </style>
-</div></div>
+</div>
             
-            <div class="col-md-4"><div><h1>News</h1>
+        </div>
+        <div class="col-sm-6">
+            
+            <div class="alert alert-info"
+                style="margin: 20px;
+                       padding: 10px 50px">
+                <div>
+
+<h1 id="oshawa-tennis-club-i-class-fa-fa-bullhorn-i">Oshawa Tennis Club <i class="fa fa-bullhorn"></i></h1>
+
+<p><br></p>
+
+<p><img class="embedded" src="/images/otc.png"></img>
+Thank you to everyone who came out this summer to play at Mary St., the
+Brookside courts, and other locations.
+OTC has obtained the use of one court at the Oshawa Civic Dome for club play
+from
+October 1st 2017 to March 31st 2018.
+<i class="fa fa-thumbs-o-up"></i></p>
+
+<p><br></p>
+
+<p>Please make sure that you purchase the OTC membership and get a membership card
+from Kane. Please be prepared to show this card anytime you are playing at the
+Dome.</p>
+
+<p><br></p>
+
+<p>The OTC executive continues to pursue opportunities for finding a permanent
+home.
+Until then, we continue to operate as a seasonal club, with summer operations
+primarily at the Mary St. courts, and winter operations at the Oshawa Civic
+Dome.</p>
+
+<div style="text-align: right">
+  <a href="https://www.facebook.com/oshawatennisclub/">
+    <i class="fa fa-facebook-official"></i>
+  </a>
+</div>
+</div>
+            </div>
+            
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-4">
+            
+            <div style="border: 5px solid teal;
+                        border-right: 50px solid teal;
+                        padding: 10px"><h1>News</h1>
 
 <a class="twitter-timeline" data-dnt="true"
     href="https://twitter.com/kaneeastertenni"
@@ -99,66 +174,36 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <style>
 div.timeline-header { display: none; }
 </style>
-</div></div>
+</div>
             
         </div>
-    </div>
-</div>
-
-<div class="strip" style="background:#FBFBEF">
-    <div class="container">
-        <div class="row">
-            
-            <div class="col-md-3 card"><div>
-
-<h1 id="summer-camps-pages-camps"><a href="/pages/camps/">Summer Camps</a></h1>
-</div></div>
-            
-            <div class="col-md-3 card"><div>
-
-<h1 id="club-leagues-pages-club-leagues"><a href="/pages/club-leagues/">Club Leagues</a></h1>
-</div></div>
-            
-            <div class="col-md-6 card"><div>
-
-<h1 id="programs">Programs</h1>
-
-<p>We offer a variety of tennis programs.</p>
-
-<ul>
-<li><a href="/pages/junior-clinics/">Junior clinics</a></li>
-<li><a href="/pages/adult-clinics/">Adult clinics</a></li>
-<li><a href="/pages/tennis-aerobics">Tennis Aerobics</a></li>
-</ul>
-</div></div>
-            
-        </div>
-    </div>
-</div>
-
-<div class="strip" style="background:#EFEFFB">
-    <div class="container">
-        <div class="row">
-            
-            <div class="col-md-4 card"><div><h1 style=text-align:center>
-    <a href="/pages/private-lessons">
-    Private Lessons <br>
-    & <br>
-    Coaching Staff
-    </a>
-</h1>
-</div></div>
-            
-            <div class="col-md-4 card"><div>
-
-<h1 id="tennis-holidays-pages-tennis-holiday"><a href="/pages/tennis-holiday/">Tennis Holidays</a></h1>
-</div></div>
-            
-            <div class="col-md-4 card"><div>
-
-<h1 id="proshop-pages-proshop"><a href="/pages/proshop/">Proshop</a></h1>
-</div></div>
-            
+        <div class="col-sm-8">
+            <div style="display: flex; flex-flow: row wrap; width: 100%;">
+                <div class="box">
+                    <a href="/pages/junior-clinics">Junior Clinics</a>
+                </div>
+                <div class="box">
+                    <a href="/pages/adult-clinics">Adult Clinics</a>
+                </div>
+                <div class="box">
+                    <a href="/pages/tennis-aerobics">Tennis Aerobics</a>
+                </div>
+                <div class="box">
+                    <a href="/pages/club-leagues">Club Leagues</a>
+                </div>
+                <div class="box">
+                    <a href="/pages/private-lessons">Private Lessons &amp;<br> Coaching Staff</a>
+                </div>
+                <div class="box">
+                    <a href="/pages/camps">Summer Camps</a>
+                </div>
+                <div class="box">
+                    <a href="/pages/tennis-holiday">Tennis Holidays</a>
+                </div>
+                <div class="box">
+                    <a href="/pages/proshop">Proshop</a>
+                </div>
+            </div>
         </div>
     </div>
 </div>

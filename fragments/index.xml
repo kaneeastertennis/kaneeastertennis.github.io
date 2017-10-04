@@ -54,7 +54,7 @@ kaneeastertennis@gmail.com &lt;br&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;style&gt;
-.about p {
+p {
 text-align: justify;
 }
 &lt;/style&gt;
@@ -85,21 +85,43 @@ text-align: justify;
     
     <item>
       <title></title>
-      <link>http://kaneeastertennis.github.io/fragments/programs/</link>
+      <link>http://kaneeastertennis.github.io/fragments/otc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kaneeastertennis.github.io/fragments/programs/</guid>
+      <guid>http://kaneeastertennis.github.io/fragments/otc/</guid>
       <description>
 
-&lt;h1 id=&#34;programs&#34;&gt;Programs&lt;/h1&gt;
+&lt;h1 id=&#34;oshawa-tennis-club-i-class-fa-fa-bullhorn-i&#34;&gt;Oshawa Tennis Club &lt;i class=&#34;fa fa-bullhorn&#34;&gt;&lt;/i&gt;&lt;/h1&gt;
 
-&lt;p&gt;We offer a variety of tennis programs.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://kaneeastertennis.github.io/pages/junior-clinics/&#34;&gt;Junior clinics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kaneeastertennis.github.io/pages/adult-clinics/&#34;&gt;Adult clinics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kaneeastertennis.github.io/pages/tennis-aerobics&#34;&gt;Tennis Aerobics&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;img class=&#34;embedded&#34; src=&#34;http://kaneeastertennis.github.io/images/otc.png&#34;&gt;&lt;/img&gt;
+Thank you to everyone who came out this summer to play at Mary St., the
+Brookside courts, and other locations.
+OTC has obtained the use of one court at the Oshawa Civic Dome for club play
+from
+October 1st 2017 to March 31st 2018.
+&lt;i class=&#34;fa fa-thumbs-o-up&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Please make sure that you purchase the OTC membership and get a membership card
+from Kane. Please be prepared to show this card anytime you are playing at the
+Dome.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;The OTC executive continues to pursue opportunities for finding a permanent
+home.
+Until then, we continue to operate as a seasonal club, with summer operations
+primarily at the Mary St. courts, and winter operations at the Oshawa Civic
+Dome.&lt;/p&gt;
+
+&lt;div style=&#34;text-align: right&#34;&gt;
+  &lt;a href=&#34;https://www.facebook.com/oshawatennisclub/&#34;&gt;
+    &lt;i class=&#34;fa fa-facebook-official&#34;&gt;&lt;/i&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -120,82 +142,6 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&
 &lt;style&gt;
 div.timeline-header { display: none; }
 &lt;/style&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://kaneeastertennis.github.io/fragments/camps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaneeastertennis.github.io/fragments/camps/</guid>
-      <description>
-
-&lt;h1 id=&#34;summer-camps-pages-camps&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.github.io/pages/camps/&#34;&gt;Summer Camps&lt;/a&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://kaneeastertennis.github.io/fragments/private-lessons/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaneeastertennis.github.io/fragments/private-lessons/</guid>
-      <description>&lt;h1 style=text-align:center&gt;
-    &lt;a href=&#34;http://kaneeastertennis.github.io/pages/private-lessons&#34;&gt;
-    Private Lessons &lt;br&gt;
-    &amp; &lt;br&gt;
-    Coaching Staff
-    &lt;/a&gt;
-&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://kaneeastertennis.github.io/fragments/leagues/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaneeastertennis.github.io/fragments/leagues/</guid>
-      <description>
-
-&lt;h1 id=&#34;club-leagues-pages-club-leagues&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.github.io/pages/club-leagues/&#34;&gt;Club Leagues&lt;/a&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://kaneeastertennis.github.io/fragments/tennis-holiday/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaneeastertennis.github.io/fragments/tennis-holiday/</guid>
-      <description>
-
-&lt;h1 id=&#34;tennis-holidays-pages-tennis-holiday&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.github.io/pages/tennis-holiday/&#34;&gt;Tennis Holidays&lt;/a&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://kaneeastertennis.github.io/fragments/proshop/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaneeastertennis.github.io/fragments/proshop/</guid>
-      <description>
-
-&lt;h1 id=&#34;proshop-pages-proshop&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.github.io/pages/proshop/&#34;&gt;Proshop&lt;/a&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://kaneeastertennis.github.io/fragments/galleries/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaneeastertennis.github.io/fragments/galleries/</guid>
-      <description>
-
-&lt;h1 id=&#34;gallery-pages-private-lessons&#34;&gt;&lt;a href=&#34;http://kaneeastertennis.github.io/pages/private-lessons/&#34;&gt;Gallery&lt;/a&gt;&lt;/h1&gt;
 </description>
     </item>
     
