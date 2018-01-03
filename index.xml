@@ -2,11 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kane Easter Tennis</title>
-    <link>http://kaneeastertennis.github.io/index.xml</link>
+    <link>http://kaneeastertennis.github.io/</link>
     <description>Recent content on Kane Easter Tennis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://kaneeastertennis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://kaneeastertennis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title></title>
@@ -14,45 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kaneeastertennis.github.io/fragments/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;about-kane-easter&#34;&gt;About Kane Easter&lt;/h1&gt;
-
-&lt;p&gt;&lt;img class=&#34;embedded&#34; src=&#34;http://kaneeastertennis.github.io/images/kaneeaster-sm.png&#34;&gt;&lt;/img&gt;
-I was born and raised on the small island of St.Lucia in the Caribbean. I
-started playing tennis at the age of 5, my father is also a tennis professional,
-and grew up in what is currently the Sandals Regency La Toc Resort in St.Lucia.
-My Dad was the hotel tennis pro and we lived in one of the villas for 10 years.
-As I improved, I travelled far and wide to play tournaments. At 15, I left
-St.Lucia for good to train at the prestigious Saddlebrook Academy in Florida,
-training ground for Pete Sampras (former #1 in the world) and Jennifer Capriati
-(former #1 in the world), for my last 2 years of high school. From there I
-received a tennis scholarship to the University of Louisville where I received a
-Bachelors in Chemical Engineering. After travelling for a year, I made my final
-stop in Whitby, Ontario in 2001 where I still call home today.&lt;/p&gt;
-
-&lt;p&gt;From 1996 to 2005, I represented the Eastern Caribbean and St. Lucia in the Davis
-Cup I am now the current Head Pro of the &lt;a href=&#34;http://www.oshawatennisclub.com/&#34;&gt;Oshawa Tennis
-Club&lt;/a&gt; and a certified Club Pro
-1 with Tennis Canada.&lt;/p&gt;
-
-&lt;p&gt;Personally I am now a husband and father of 3 children, 6, 5 and 3, who are all
-starting to participate in the sport I love, which has been my life from the age
-of 5. Through tennis I have travelled to many countries and islands, and I wish
-that opportunity on any junior, or senior, who picks up a racquet to learn the
-game. I consider myself truly lucky having this sport in my life.&lt;/p&gt;
-
-&lt;p&gt;Enjoy the game!&lt;/p&gt;
-
-&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Kane Easter &lt;br&gt;
-905-767-2612 &lt;br&gt;
-PO Box 30075 Brooklin Towne Centre, Whitby, ON, L1M 0B5 &lt;br&gt;
-kaneeastertennis@gmail.com &lt;br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <description>About Kane Easter  I was born and raised on the small island of St.Lucia in the Caribbean. I started playing tennis at the age of 5, my father is also a tennis professional, and grew up in what is currently the Sandals Regency La Toc Resort in St.Lucia. My Dad was the hotel tennis pro and we lived in one of the villas for 10 years. As I improved, I travelled far and wide to play tournaments.</description>
     </item>
     
     <item>
@@ -61,20 +25,7 @@ kaneeastertennis@gmail.com &lt;br&gt;&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kaneeastertennis.github.io/fragments/frontpage/</guid>
-      <description>&lt;div class=&#34;section&#34;&gt;
-
-    &lt;div class=&#34;banner&#34; style=&#34;background:#629269&#34;&gt;
-        &lt;h1 style=&#34;padding: 40px&#34;&gt; Kane Easter Tennis &lt;/h1&gt;
-        &lt;h2&gt; Oshawa, Ontario, 905-767-2612 &lt;/h2&gt;
-        &lt;h2 class=&#34;email&#34;&gt; 
-            &lt;a href=&#34;mailto:kaneeastertennis@gmail.com&#34;&gt;kaneeastertennis@gmail.com &lt;/a&gt;
-        &lt;/h2&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&#34;section-graphics&#34; 
-        style=&#34;background-image:url(&#39;/images/frontpage.section.png&#39;)&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <description>Kane Easter Tennis   Oshawa, Ontario, 905-767-2612  kaneeastertennis@gmail.com      </description>
     </item>
     
     <item>
@@ -83,34 +34,10 @@ kaneeastertennis@gmail.com &lt;br&gt;&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kaneeastertennis.github.io/fragments/otc/</guid>
-      <description>
+      <description>Oshawa Tennis Club  
+ Thank you to everyone who came out this summer to play at Mary St., the Brookside courts, and other locations. OTC has obtained the use of one court at the Oshawa Civic Dome for club play from October 1st 2017 to March 31st 2018. 
 
-&lt;h1 id=&#34;oshawa-tennis-club-i-class-fa-fa-bullhorn-i&#34;&gt;Oshawa Tennis Club &lt;i class=&#34;fa fa-bullhorn&#34;&gt;&lt;/i&gt;&lt;/h1&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;embedded&#34; src=&#34;http://kaneeastertennis.github.io/images/otc.png&#34;&gt;&lt;/img&gt;
-Thank you to everyone who came out this summer to play at Mary St., the
-Brookside courts, and other locations.
-OTC has obtained the use of one court at the Oshawa Civic Dome for club play
-from
-October 1st 2017 to March 31st 2018.
-&lt;i class=&#34;fa fa-thumbs-o-up&#34;&gt;&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;Please make sure that you purchase the OTC membership and get a membership card
-from Kane. Please be prepared to show this card anytime you are playing at the
-Dome.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;The OTC executive continues to pursue opportunities for finding a permanent
-home.
-Until then, we continue to operate as a seasonal club, with summer operations
-primarily at the Mary St. courts, and winter operations at the Oshawa Civic
-Dome.&lt;/p&gt;
-</description>
+Please make sure that you purchase the OTC membership and get a membership card from Kane. Please be prepared to show this card anytime you are playing at the Dome.</description>
     </item>
     
     <item>
@@ -119,18 +46,7 @@ Dome.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kaneeastertennis.github.io/fragments/tweets/</guid>
-      <description>&lt;h1&gt;News&lt;/h1&gt;
-
-&lt;a class=&#34;twitter-timeline&#34; data-dnt=&#34;true&#34;
-    href=&#34;https://twitter.com/kaneeastertenni&#34;
-    data-widget-id=&#34;713238168049475584&#34;&gt;Tweets by @kaneeastertennis&lt;/a&gt;
-&lt;script&gt;!function(d,s,id){var
-js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&#39;https&#39;;if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+&#34;://platform.twitter.com/widgets.js&#34;;fjs.parentNode.insertBefore(js,fjs);}}(document,&#34;script&#34;,&#34;twitter-wjs&#34;);&lt;/script&gt;
-
-&lt;style&gt;
-div.timeline-header { display: none; }
-&lt;/style&gt;
-</description>
+      <description>News Tweets by @kaneeastertennis !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&#39;https&#39;;if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+&#34;://platform.twitter.com/widgets.js&#34;;fjs.parentNode.insertBefore(js,fjs);}}(document,&#34;script&#34;,&#34;twitter-wjs&#34;);  div.timeline-header { display: none; }  </description>
     </item>
     
     <item>
@@ -139,148 +55,7 @@ div.timeline-header { display: none; }
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kaneeastertennis.github.io/pages/private-lessons/</guid>
-      <description>
-
-&lt;h1 id=&#34;private-lessons&#34;&gt;Private Lessons&lt;/h1&gt;
-
-&lt;table&gt;
-    &lt;tr&gt;
-        &lt;th&gt;&lt;/th&gt;
-        &lt;th&gt; Kane Easter &lt;br&gt; John Easter &lt;/th&gt;
-        &lt;th&gt; Senior Instructor &lt;/th&gt;
-        &lt;th&gt; Junior Instructor &lt;/th&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt; 1 hour &lt;/td&gt;
-        &lt;td&gt; $50 &lt;/td&gt;
-        &lt;td&gt; $45 &lt;/td&gt;
-        &lt;td&gt; $40 &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt; 1/2 hour &lt;/td&gt;
-        &lt;td&gt; $27 &lt;/td&gt;
-        &lt;td&gt; $25 &lt;/td&gt;
-        &lt;td&gt; $22 &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt; 1 hour, 2 people &lt;/td&gt;
-        &lt;td&gt; $27 each &lt;/td&gt;
-        &lt;td&gt; $25 each &lt;/td&gt;
-        &lt;td&gt; $22 each &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt; 1 hour, 3 people &lt;/td&gt;
-        &lt;td&gt; $20 each &lt;/td&gt;
-        &lt;td&gt; $17 each &lt;/td&gt;
-        &lt;td&gt; $15 each &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt; 1 hour, 4 people &lt;/td&gt;
-        &lt;td&gt; $15 each &lt;/td&gt;
-        &lt;td&gt; $13 each &lt;/td&gt;
-        &lt;td&gt; $12 each &lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;h1 id=&#34;about-the-coaching-staff&#34;&gt;About the coaching staff&lt;/h1&gt;
-
-&lt;h2 id=&#34;kane-easter-head-pro-oshawa-tennis-club&#34;&gt;Kane Easter. Head Pro Oshawa Tennis Club&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;Former Tennis Director Campus Tennis Centre&lt;/li&gt;
-&lt;li&gt;Played 10 years for Eastern Caribbean/St.Lucia Davis Cup Team&lt;/li&gt;
-&lt;li&gt;Lettered/Captain NCAA Division 1 University of Louisville Tennis&lt;/li&gt;
-&lt;li&gt;Certified Club Pro 1 Tennis Canada and Cardio Tennis Certified&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;john-easter-adult-program-head-pro&#34;&gt;John Easter. Adult Program Head Pro&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;Coaching and playing career spans over 40 years in the Caribbean, UK, Spain,
-USA and Canada&lt;/li&gt;
-&lt;li&gt;Former Sports and Tennis Director Cunard Ships and Resorts International&lt;/li&gt;
-&lt;li&gt;Certified Coach Tennis Canada and the British Tennis Coaching Association&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;allan-care-high-performance-juniors-head-coach&#34;&gt;Allan Care. High Performance Juniors Head Coach&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;Former National and Provincial Head Coach&lt;/li&gt;
-&lt;li&gt;High Performance Coach for over 30 years&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;bianca-easter-adult-junior-coach&#34;&gt;Bianca Easter.  Adult/Junior Coach&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;Lettered NCAA Division 1 University of Detroit Tennis and Soccer&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;joe-cambareri-adult-junior-coach&#34;&gt;Joe Cambareri: Adult/Junior Coach&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;Certified Instructor Tennis Canada&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;glenn-cunningham-adult-junior-coach&#34;&gt;Glenn Cunningham: Adult/Junior Coach&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;Certified Instructor Tennis Canada&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;nick-deguzman-junior-summer-camp-coach&#34;&gt;Nick DeGuzman: Junior/summer camp coach&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;Certified Instructor Tennis Canada&lt;/li&gt;
-&lt;li&gt;Provincially ranked junior&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;jonah-baryliuk-junior-summer-camp-coach&#34;&gt;Jonah Baryliuk: Junior/summer camp coach&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;Certified Instructor Tennis Canada&lt;/li&gt;
-&lt;li&gt;Currently enrolled at Wilfrid Laurier University&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;gabriel-ho-junior-coach&#34;&gt;Gabriel Ho: Junior Coach&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;Currently enrolled at UOIT&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;style&gt;
-.private-lessons h1 {
-    margin-top: 50px;
-    margin-bottom: 50px;
-}
-.private-lessons h2 {
-    margin-top: 20px;
-}
-.private-lessons blockquote {
-    border: none;
-    padding: 30px;
-}
-&lt;/style&gt;
-</description>
+      <description>Private Lessons     Kane Easter John Easter   Senior Instructor   Junior Instructor     1 hour   $50   $45   $40     1/2 hour   $27   $25   $22     1 hour, 2 people   $27 each   $25 each   $22 each     1 hour, 3 people   $20 each   $17 each   $15 each     1 hour, 4 people   $15 each   $13 each   $12 each    About the coaching staff Kane Easter.</description>
     </item>
     
     <item>
@@ -289,28 +64,9 @@ USA and Canada&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kaneeastertennis.github.io/pages/proshop/</guid>
-      <description>
-
-&lt;h1 id=&#34;proshop&#34;&gt;Proshop&lt;/h1&gt;
-
-&lt;p&gt;As of April 2nd the Campus Tennis Centre Pro Shop will close, however, I will
-still provide a wide range of products for tennis throughout the summer. Joe
-Cambareri and I will take care of all your stringing needs and provide quick
-reliable service.&lt;/p&gt;
-
-&lt;p&gt;Below is a list of all Wilson, Prince and Tecnifibre products. Please email me for prices.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;Latest Wilson Demo Racquets&lt;/li&gt;
-&lt;li&gt;Latest Wilson/Prince racquets&lt;/li&gt;
-&lt;li&gt;Wilson/Prince tennis shoes&lt;/li&gt;
-&lt;li&gt;Wilson tennis bags&lt;/li&gt;
-&lt;li&gt;Tennis accessories and clothing&lt;/li&gt;
-&lt;li&gt;Wilson tennis balls and ball hoppers&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-</description>
+      <description> Proshop As of April 2nd the Campus Tennis Centre Pro Shop will close, however, I will still provide a wide range of products for tennis throughout the summer. Joe Cambareri and I will take care of all your stringing needs and provide quick reliable service.
+Below is a list of all Wilson, Prince and Tecnifibre products. Please email me for prices.
+  Latest Wilson Demo Racquets Latest Wilson/Prince racquets Wilson/Prince tennis shoes Wilson tennis bags Tennis accessories and clothing Wilson tennis balls and ball hoppers   </description>
     </item>
     
     <item>
@@ -319,42 +75,7 @@ reliable service.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kaneeastertennis.github.io/pages/adult-clinics/</guid>
-      <description>
-
-&lt;h1 id=&#34;adult-clinics&#34;&gt;Adult Clinics&lt;/h1&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;payment&#34;&gt;Payment&lt;/h2&gt;
-
-&lt;div class=&#34;payment&#34;&gt;
-    &lt;p&gt;&lt;span class=&#34;label label-primary&#34;&gt;Method of payment&lt;/span&gt;&lt;p&gt;
-    &lt;ol&gt;
-        &lt;li&gt;Complete the 
-            &lt;a href=&#34;http://kaneeastertennis.github.io/pdfs/RegistrationForm.pdf&#34;&gt;
-                registration form
-                &lt;i style=&#34;color:red&#34; class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;
-            &lt;/a&gt;
-        &lt;/li&gt;
-        &lt;li&gt;Please include a cheque payable to: &lt;em&gt;Kane Easter&lt;/em&gt;&lt;/li&gt;
-        &lt;li&gt;Mail to:
-            &lt;p style=&#34;font-family:Roboto; font-size: 80%&#34; 
-               class=&#34;alert alert-info&#34;&gt;
-            Kane Easter &lt;br&gt;
-            PO Box 30075 Brooklin Towne Centre &lt;br&gt;
-            Whitby ON, L1M 0B5
-            &lt;/p&gt;
-        &lt;/li&gt;
-    &lt;/ol&gt;
-&lt;/div&gt;
-
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
-
-&lt;canvas download=yes pdf=/pdfs/AdultClinics.pdf width=800&gt;&lt;/canvas&gt;
-</description>
+      <description> Adult Clinics Payment Method of payment  Complete the registration form    Please include a cheque payable to: Kane Easter Mail to: Kane Easter PO Box 30075 Brooklin Towne Centre Whitby ON, L1M 0B5    Schedule  </description>
     </item>
     
     <item>
@@ -363,42 +84,7 @@ reliable service.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kaneeastertennis.github.io/pages/camps/</guid>
-      <description>
-
-&lt;h1 id=&#34;summer-camps&#34;&gt;Summer Camps&lt;/h1&gt;
-
-&lt;h2 id=&#34;payment&#34;&gt;Payment&lt;/h2&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&#34;payment&#34;&gt;
-    &lt;p&gt;&lt;span class=&#34;label label-primary&#34;&gt;Method of payment&lt;/span&gt;&lt;p&gt;
-    &lt;ol&gt;
-        &lt;li&gt;Complete the 
-            &lt;a href=&#34;http://kaneeastertennis.github.io/pdfs/RegistrationForm.pdf&#34;&gt;
-                registration form
-                &lt;i style=&#34;color:red&#34; class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;
-            &lt;/a&gt;
-        &lt;/li&gt;
-        &lt;li&gt;Please include a cheque payable to: &lt;em&gt;Kane Easter&lt;/em&gt;&lt;/li&gt;
-        &lt;li&gt;Mail to:
-            &lt;p style=&#34;font-family:Roboto; font-size: 80%&#34; 
-               class=&#34;alert alert-info&#34;&gt;
-            Kane Easter &lt;br&gt;
-            PO Box 30075 Brooklin Towne Centre &lt;br&gt;
-            Whitby ON, L1M 0B5
-            &lt;/p&gt;
-        &lt;/li&gt;
-    &lt;/ol&gt;
-&lt;/div&gt;
-
-
-&lt;h2 id=&#34;pamphlet&#34;&gt;Pamphlet&lt;/h2&gt;
-
-&lt;hr /&gt;
-
-&lt;canvas download=1 pdf=&#34;/pdfs/summer-camp.pdf&#34; width=800&gt;&lt;/canvas&gt;
-</description>
+      <description> Summer Camps Payment Method of payment  Complete the registration form    Please include a cheque payable to: Kane Easter Mail to: Kane Easter PO Box 30075 Brooklin Towne Centre Whitby ON, L1M 0B5    Pamphlet  </description>
     </item>
     
     <item>
@@ -407,12 +93,7 @@ reliable service.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kaneeastertennis.github.io/pages/club-leagues/</guid>
-      <description>
-
-&lt;h1 id=&#34;club-leagues&#34;&gt;Club Leagues&lt;/h1&gt;
-
-&lt;canvas download=1 pdf=&#34;/pdfs/ClubLeagues.pdf&#34; width=800&gt;&lt;/canvas&gt;
-</description>
+      <description> Club Leagues  </description>
     </item>
     
     <item>
@@ -421,60 +102,8 @@ reliable service.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kaneeastertennis.github.io/pages/junior-clinics/</guid>
-      <description>
-
-&lt;h1 id=&#34;junior-clinics&#34;&gt;Junior Clinics&lt;/h1&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;payment&#34;&gt;Payment&lt;/h2&gt;
-
-&lt;div class=&#34;payment&#34;&gt;
-    &lt;p&gt;&lt;span class=&#34;label label-primary&#34;&gt;Method of payment&lt;/span&gt;&lt;p&gt;
-    &lt;ol&gt;
-        &lt;li&gt;Complete the 
-            &lt;a href=&#34;http://kaneeastertennis.github.io/pdfs/RegistrationForm.pdf&#34;&gt;
-                registration form
-                &lt;i style=&#34;color:red&#34; class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;
-            &lt;/a&gt;
-        &lt;/li&gt;
-        &lt;li&gt;Please include a cheque payable to: &lt;em&gt;Kane Easter&lt;/em&gt;&lt;/li&gt;
-        &lt;li&gt;Mail to:
-            &lt;p style=&#34;font-family:Roboto; font-size: 80%&#34; 
-               class=&#34;alert alert-info&#34;&gt;
-            Kane Easter &lt;br&gt;
-            PO Box 30075 Brooklin Towne Centre &lt;br&gt;
-            Whitby ON, L1M 0B5
-            &lt;/p&gt;
-        &lt;/li&gt;
-    &lt;/ol&gt;
-&lt;/div&gt;
-
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
-
-&lt;p&gt;If you are not sure what to enroll your child in, please contact Kane Easter @
-905. 767. 2612 or email &lt;code&gt;kaneeastertennis@gmail.com&lt;/code&gt;&lt;/p&gt;
-
-&lt;canvas width=800 pdf=&#34;/pdfs/JuniorClinic.pdf&#34; download=yes&gt;&lt;/canvas&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;locations&#34;&gt;Locations&lt;/h2&gt;
-
-&lt;div class=row&gt;
-    &lt;div class=&#34;col-md-6&#34;&gt;
-        &lt;h4&gt;Alexandra Park&lt;/h4&gt;
-        &lt;img style=&#34;width:100%&#34; src=&#34;http://kaneeastertennis.github.io/images/alexander-park.png&#34;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;col-md-6&#34;&gt;
-        &lt;h4&gt;North Oshawa&lt;/h4&gt;
-        &lt;img style=&#34;width:100%&#34; src=&#34;http://kaneeastertennis.github.io/images/north-oshawa.png&#34;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <description> Junior Clinics Payment Method of payment  Complete the registration form    Please include a cheque payable to: Kane Easter Mail to: Kane Easter PO Box 30075 Brooklin Towne Centre Whitby ON, L1M 0B5    Schedule If you are not sure what to enroll your child in, please contact Kane Easter @ 905. 767. 2612 or email kaneeastertennis@gmail.com
+ Locations Alexandra Park   North Oshawa    </description>
     </item>
     
     <item>
@@ -483,48 +112,7 @@ reliable service.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kaneeastertennis.github.io/pages/tennis-aerobics/</guid>
-      <description>
-
-&lt;h1 id=&#34;tennis-aerobics&#34;&gt;Tennis Aerobics&lt;/h1&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;payment&#34;&gt;Payment&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;OTC Member / Adult Clinic Participants: Package of 4 / $40&lt;/li&gt;
-&lt;li&gt;Non-member: Package of 4 / $60&lt;/li&gt;
-&lt;li&gt;Must purchase pack of 4, can be used at any time during April to September&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&#34;payment&#34;&gt;
-    &lt;p&gt;&lt;span class=&#34;label label-primary&#34;&gt;Method of payment&lt;/span&gt;&lt;p&gt;
-    &lt;ol&gt;
-        &lt;li&gt;Complete the 
-            &lt;a href=&#34;http://kaneeastertennis.github.io/pdfs/RegistrationForm.pdf&#34;&gt;
-                registration form
-                &lt;i style=&#34;color:red&#34; class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;
-            &lt;/a&gt;
-        &lt;/li&gt;
-        &lt;li&gt;Please include a cheque payable to: &lt;em&gt;Kane Easter&lt;/em&gt;&lt;/li&gt;
-        &lt;li&gt;Mail to:
-            &lt;p style=&#34;font-family:Roboto; font-size: 80%&#34; 
-               class=&#34;alert alert-info&#34;&gt;
-            Kane Easter &lt;br&gt;
-            PO Box 30075 Brooklin Towne Centre &lt;br&gt;
-            Whitby ON, L1M 0B5
-            &lt;/p&gt;
-        &lt;/li&gt;
-    &lt;/ol&gt;
-&lt;/div&gt;
-
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
-
-&lt;canvas width=800 download=yes pdf=/pdfs/TennisAerobics.pdf&gt;&lt;/canvas&gt;
-</description>
+      <description> Tennis Aerobics Payment  OTC Member / Adult Clinic Participants: Package of 4 / $40 Non-member: Package of 4 / $60 Must purchase pack of 4, can be used at any time during April to September  Method of payment  Complete the registration form    Please include a cheque payable to: Kane Easter Mail to: Kane Easter PO Box 30075 Brooklin Towne Centre Whitby ON, L1M 0B5    Schedule  </description>
     </item>
     
     <item>
@@ -533,67 +121,7 @@ reliable service.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kaneeastertennis.github.io/pages/tennis-holiday/</guid>
-      <description>
-
-&lt;h1 id=&#34;tennis-holidays&#34;&gt;Tennis Holidays&lt;/h1&gt;
-
-&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;My Dad and I have run St. Lucia Tennis holidays for Oshawa Tennis Club players,
-their friends and other Durham region players for the last 4 years. The idea
-behind the tennis holiday was to give a unique tour of St. Lucia with my dad
-and myself who grew up on the island. This is a different holiday from what you
-would normally experience at an all inclusive hotel vacation. We stayed at the
-beautiful Landings Hotel resort in St. Lucia the first three years and the
-trips left the members with a lifetime memory.&lt;/p&gt;
-
-&lt;p&gt;We thought a different venue would be a fashionable choice for our fourth year,
-so we visited St. James Club Antigua for 2016. The Antigua trip 2016 was FULL
-with, 22 tennis players and 29 total travellers. WOW!&lt;/p&gt;
-
-&lt;p&gt;For 2017 we are returning to our homeland of St. Lucia to stay at St. James
-Club Morgan Bay. The dates will be &lt;strong&gt;April 2nd to April 9th, 2017&lt;/strong&gt;. This will be
-our fifth Tennis Holiday and each year we have seen the numbers increase, so if
-interested for April, please contact me. You must be an intermediate level
-player or better to come on the trip. If you are unsure of your level, please
-contact us by email at &lt;code&gt;kaneeastertennis@gmail.com&lt;/code&gt; or &lt;code&gt;john@johneaster.com&lt;/code&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;div style=&#34;text-align:right&#34;&gt;
-&lt;p&gt;Regards,&lt;/p&gt;
-&lt;i&gt;Kane Easter&lt;/i&gt;
-&lt;/div&gt;
-
-&lt;figure&gt;
-&lt;img src=&#34;http://kaneeastertennis.github.io/gallery/tennis-holiday/tennis-holiday-2016.jpg&#34;&gt;&lt;/img&gt;
-&lt;figcaption&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;information&#34;&gt;Information&lt;/h2&gt;
-
-&lt;hr /&gt;
-
-&lt;canvas width=800 download=yes pdf=/pdfs/tennis-holiday-2017.pdf&gt;&lt;/canvas&gt;
-
-&lt;style&gt;
-.tennis-holiday blockquote {
-    max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: justify;
-    border: none;
-}
-figure {
-    margin: 20px 0 20px 0;
-}
-figure img {
-    width: 100%;
-}
-&lt;/style&gt;
-</description>
+      <description>Tennis Holidays About My Dad and I have run St. Lucia Tennis holidays for Oshawa Tennis Club players, their friends and other Durham region players for the last 4 years. The idea behind the tennis holiday was to give a unique tour of St. Lucia with my dad and myself who grew up on the island. This is a different holiday from what you would normally experience at an all inclusive hotel vacation.</description>
     </item>
     
   </channel>
