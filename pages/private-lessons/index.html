@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
     <head>
-    <title></title>
+    <title>Coaching and Lessons</title>
     <meta name="viewport" content="width=device-width, 
                                      initial-scale=1,
                                      maximum-scale=1,
@@ -44,104 +44,6 @@
 <h1 id="private-lessons">Private Lessons</h1>
 
 <canvas width=800 pdf="/pdfs/Coaching.pdf" download=yes></canvas>
-
-<h1 id="private-lessons-1">Private Lessons</h1>
-
-<table>
-    <tr>
-        <th></th>
-        <th> Kane Easter <br> John Easter </th>
-        <th> Senior Instructor </th>
-        <th> Junior Instructor </th>
-    </tr>
-    <tr>
-        <td> 1 hour </td>
-        <td> $55 </td>
-        <td> $45 </td>
-        <td> $40 </td>
-    </tr>
-    <tr>
-        <td> 1/2 hour </td>
-        <td> $28.5 </td>
-        <td> $25 </td>
-        <td> $22 </td>
-    </tr>
-    <tr>
-        <td> 1 hour, 2 people </td>
-        <td> $28 each </td>
-        <td> $25 each </td>
-        <td> $22 each </td>
-    </tr>
-    <tr>
-        <td> 1 hour, 3 people </td>
-        <td> $20 each </td>
-        <td> $17 each </td>
-        <td> $15 each </td>
-    </tr>
-    <tr>
-        <td> 1 hour, 4 people </td>
-        <td> $15 each </td>
-        <td> $13 each </td>
-        <td> $12 each </td>
-    </tr>
-</table>
-
-<h1 id="about-the-coaching-staff">About the coaching staff</h1>
-
-<h2 id="kane-easter-head-pro-oshawa-tennis-club">Kane Easter. Head Pro Oshawa Tennis Club</h2>
-
-<blockquote>
-<ul>
-<li>Former Tennis Director Campus Tennis Centre</li>
-<li>Played 10 years for Eastern Caribbean/St.Lucia Davis Cup Team</li>
-<li>Lettered/Captain NCAA Division 1 University of Louisville Tennis</li>
-<li>Certified Club Pro 1 Tennis Canada and Cardio Tennis Certified</li>
-</ul>
-</blockquote>
-
-<h2 id="john-easter-adult-program-head-pro">John Easter. Adult Program Head Pro</h2>
-
-<blockquote>
-<ul>
-<li>Coaching and playing career spans over 40 years in the Caribbean, UK, Spain,
-USA and Canada</li>
-<li>Former Sports and Tennis Director Cunard Ships and Resorts International</li>
-<li>Certified Coach Tennis Canada and the British Tennis Coaching Association</li>
-</ul>
-</blockquote>
-
-<hr />
-
-<h2 id="allan-care-high-performance-juniors-head-coach">Allan Care. High Performance Juniors Head Coach</h2>
-
-<blockquote>
-<ul>
-<li>Former National and Provincial Head Coach</li>
-<li>High Performance Coach for over 30 years</li>
-</ul>
-</blockquote>
-
-<h2 id="gabriel-ho-junior-coach">Gabriel Ho: Junior Coach</h2>
-
-<blockquote>
-<ul>
-<li>Currently enrolled at UOIT</li>
-</ul>
-</blockquote>
-
-<style>
-.private-lessons h1 {
-    margin-top: 50px;
-    margin-bottom: 50px;
-}
-.private-lessons h2 {
-    margin-top: 20px;
-}
-.private-lessons blockquote {
-    border: none;
-    padding: 30px;
-}
-</style>
 </div>
 </div>
 
@@ -157,6 +59,52 @@ USA and Canada</li>
 </div>
 <script src="/js/jquery-2.2.1.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
+
+<script src="/js/pdf.js"></script>
+<script>
+
+$("canvas[pdf]").each(function() {
+    var url = $(this).attr('pdf');
+    var canvas = this;
+
+    var div = $("<div>").addClass("pdf");
+    $(this).wrap(div);
+
+    if(url) {
+        PDFJS.disableWorker = true;
+        PDFJS.workerSrc = "/js/pdf.worker.js";
+        PDFJS.getDocument(url).then(function(pdf) {
+            pdf.getPage(1).then(function (page) {
+                var scale = canvas.width / page.getViewport(1.0).width;
+                var viewport = page.getViewport(scale);
+                var context = canvas.getContext('2d');
+
+                canvas.height = viewport.height;
+
+                var renderContext = {
+                  canvasContext: context,
+                  viewport: viewport
+                };
+                page.render(renderContext);
+            });
+        });
+
+        if($(canvas).attr("download")) {
+            var a = $("<a>")
+                    .addClass("label label-primary")
+                    .text("Direct download").attr('href', url)
+                    .append(
+                            $("<i>")
+                            .addClass("fa fa-file-pdf-o")
+                            .css({
+                                marginLeft: 10,
+                            }));
+
+            $(canvas).after(a);
+        }
+    }
+});
+</script>
 
 
 <script>
