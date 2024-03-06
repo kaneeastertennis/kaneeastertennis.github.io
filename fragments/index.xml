@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fragments on Kane Easter Tennis</title>
-    <link>http://kaneeastertennis.github.io/fragments/</link>
+    <link>https://kaneeastertennis.github.io/fragments/</link>
     <description>Recent content in Fragments on Kane Easter Tennis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://kaneeastertennis.github.io/fragments/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kaneeastertennis.github.io/fragments/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://kaneeastertennis.github.io/fragments/about/</link>
+      <link>https://kaneeastertennis.github.io/fragments/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kaneeastertennis.github.io/fragments/about/</guid>
+      <guid>https://kaneeastertennis.github.io/fragments/about/</guid>
       <description>About Kane Easter  I was born and raised on the small island of St.Lucia in the Caribbean. I started playing tennis at the age of 5, my father is also a tennis professional, and grew up in what is currently the Sandals Regency La Toc Resort in St.Lucia. My Dad was the hotel tennis pro and we lived in one of the villas for 10 years. As I improved, I travelled far and wide to play tournaments.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://kaneeastertennis.github.io/fragments/frontpage/</link>
+      <link>https://kaneeastertennis.github.io/fragments/frontpage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kaneeastertennis.github.io/fragments/frontpage/</guid>
+      <guid>https://kaneeastertennis.github.io/fragments/frontpage/</guid>
       <description>Kane Easter Tennis   Oshawa, Ontario, 905-767-2612  kaneeastertennis@gmail.com      </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://kaneeastertennis.github.io/fragments/otc/</link>
+      <link>https://kaneeastertennis.github.io/fragments/otc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kaneeastertennis.github.io/fragments/otc/</guid>
+      <guid>https://kaneeastertennis.github.io/fragments/otc/</guid>
       <description>Oshawa Tennis Club  
  Thank you to everyone who came out this summer to play at Mary St., the Brookside courts, and other locations. OTC has obtained the use of one court at the Oshawa Civic Dome for club play from October 1st 2017 to March 31st 2018. 
 
@@ -42,10 +42,10 @@ Please make sure that you purchase the OTC membership and get a membership card 
     
     <item>
       <title></title>
-      <link>http://kaneeastertennis.github.io/fragments/tweets/</link>
+      <link>https://kaneeastertennis.github.io/fragments/tweets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kaneeastertennis.github.io/fragments/tweets/</guid>
+      <guid>https://kaneeastertennis.github.io/fragments/tweets/</guid>
       <description>News Tweets by @kaneeastertennis !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&#39;https&#39;;if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+&#34;://platform.twitter.com/widgets.js&#34;;fjs.parentNode.insertBefore(js,fjs);}}(document,&#34;script&#34;,&#34;twitter-wjs&#34;);  div.timeline-header { display: none; }  </description>
     </item>
     
